@@ -1,0 +1,501 @@
+order_id,customer_name,customer_email,region,category,product_name,quantity,unit_price,order_total,order_date,status
+40ac1a57-ecbb-4b4f-a463-465d382d6175,Amanda Peck,josehernandez@example.net,Northeast,Home Goods,Optional client-driven system engine,4,53.42,213.68,2023-06-07,COMPLETED
+c30b6b88-d4ac-4195-8074-1b3d9333047f,Henry Nelson,lori89@example.net,Midwest,Sporting Goods,Triple-buffered next generation capability,15,48.23,723.45,2023-08-13,
+173caf61-7586-46a9-8ead-20fd35db6892,Charles Smith,watersbruce@example.org,South,Office Supplies,Profit-focused maximized installation,6,156.07,936.42,2023-01-28,
+a14a8004-551e-4af0-92a5-f8799f7eb9ed,Dylan Williams,qwhite@example.com,South,Apparel,Secured homogeneous standardization,3,241.89,725.67,2024-02-05,COMPLETED
+50643534-08e3-45cd-a1ca-3964d4389907,John Johnston,mendozacassie@example.net,West,Office Supplies,Customizable bottom-line monitoring,,45.98,229.9,2023-07-23,pending
+81e01ad8-72ce-4bb3-96f7-d631ab3b3488,Sandra Quinn,mary75@example.org,West,Sporting Goods,Team-oriented background superstructure,9,258.52,2326.68,2023-07-22,completed
+a39d3eca-a1ef-4469-ba48-8a60ba6f1cc1,Robert Holloway,daniel79@example.org,West,Office Supplies,Reduced 24hour task-force,,207.48,622.44,2024-11-15,pending
+2fce39ce-d27a-4f15-b087-d2526fe7db75,Matthew Burton,chadmurray@example.com,South,Apparel,Open-source hybrid installation,20,211.17,4223.4,2023-01-20,refunded
+c9f13fc0-a66e-4dfe-beef-c23d82394900,Brett Hunter,martin13@example.net,West,Sporting Goods,Versatile zero-defect approach,20,68.56,,2023-03-25,
+627b6e18-0f05-47ef-9368-8e7ca08f1d82,Eric Gutierrez,cameron70@example.com,Northeast,Sporting Goods,Managed demand-driven firmware,9,88.06,792.54,2023-09-20,
+5f628e02-3d2a-40e6-8b62-d032116dd43d,Hannah Luna,jonesmichael@example.org,Midwest,Sporting Goods,Inverse non-volatile Graphic Interface,3,252.9,758.7,2023-04-30,refunded
+9f6a4a7a-b1ae-4d15-8f9e-b8193136769d,Carrie Arnold,joseph85@example.net,West,Apparel,Face-to-face reciprocal Internet solution,13,206.24,2681.12,2023-01-26,completed
+4dbf8cb8-53f1-47a4-bee7-dadd3addd9c3,Faith Mclean,markdaniels@example.com,South,Sporting Goods,Open-architected 5thgeneration frame,16,54.7,875.2,2023-10-01,Pending
+9b13fa8a-b5d0-40c5-9243-b70ca47a615d,William Lewis,richard67@example.net,South,Sporting Goods,Operative value-added capability,3,165.22,495.66,2024-02-21,completed
+62aed9a8-3bb2-43f4-8d01-6131cc17f783,Jill Perez,tiffany50@example.net,West,Apparel,Fundamental cohesive firmware,4,292.06,1168.24,2023-04-17,refunded
+d59ec26e-b2ff-44e2-8ce0-c1adec886169,Michelle Berry,haroldlopez@example.net,Northeast,Apparel,Programmable needs-based installation,15,207.87,3118.05,2024-06-15,refunded
+01460c5b-6cd3-4f67-9c8e-e7c7760ebe1d,Jennifer Bass,johnsonsean@example.com,West,Apparel,Progressive intermediate collaboration,13,59.02,767.26,2024-11-15,
+215a6158-013c-479b-8ac4-e87b1f5a8d0e,Seth Russell,tammyblack@example.org,Midwest,Office Supplies,De-engineered logistical synergy,13,87.91,1142.83,2024-02-13,
+85a15382-2a12-4cff-a654-4d481cb8e8cd,Sharon Armstrong,kristinyoung@example.org,South,Electronics,Compatible well-modulated service-desk,4,66.16,264.64,2024-10-01,completed
+1905b2cd-34c3-4600-9110-d69a9387bd8d,Matthew Robles,ywong@example.org,Northeast,Apparel,Synergized heuristic Graphic Interface,9,113.45,1021.05,2024-12-06,Pending
+80376e49-41eb-45ca-9dc0-e6a0542787f6,Hannah Wiggins MD,clarkcharles@example.org,Northeast,Home Goods,Polarized motivating complexity,3,244.74,734.22,2024-05-16,COMPLETED
+c8439f38-21b0-44b3-a9f0-2f01773d3a7a,Dr. Rebecca Howell MD,nicholasbriggs@example.com,West,Sporting Goods,Monitored modular customer loyalty,14,165.62,2318.68,2023-03-06,completed
+77c508ea-5475-45ee-824e-a202f30b4b39,Jose Meyers,gabriella55@example.net,Midwest,Apparel,Front-line well-modulated application,6,265.64,1593.84,2024-06-11,
+53d70bfd-7ba0-4297-9c7a-00b51a935ef9,Craig Davies,donnawheeler@example.net,Northeast,Home Goods,De-engineered composite website,16,44.3,708.8,2024-06-05,Pending
+c11d3594-5c6f-48b9-b7af-f648ab018738,Dr. Jodi Kim MD,kristin93@example.com,West,Apparel,Distributed non-volatile neural-net,17,266.27,4526.59,2023-12-31,completed
+1b4050b7-3b0a-4310-95cf-39de0d4cf2c0,Jonathan Stevens,ryanhawkins@example.com,Northeast,Sporting Goods,Fundamental reciprocal forecast,,248.69,497.38,2023-01-30,pending
+916f12ba-09f8-4252-a246-a40fa5fb2fbc,Martin Collins,beanmichael@example.net,Northeast,Electronics,Universal secondary emulation,19,183.88,3493.72,2024-08-10,pending
+a6dffa2b-ff21-4989-9c0a-86a1e017bd92,Jeffrey Torres,romerogarrett@example.org,Midwest,Apparel,Organic systematic neural-net,16,262.96,4207.36,2024-04-26,refunded
+96fd75fd-6241-47b9-8925-048959d080e5,Megan Allen,nicholas49@example.com,South,Office Supplies,Down-sized systematic archive,19,5.58,106.02,2023-03-13,refunded
+c2d4db9c-7bae-4509-83ab-144f4e738cbd,Amy Reilly,nicolegalloway@example.com,South,Sporting Goods,Re-contextualized zero-defect knowledge user,18,219.19,3945.42,2023-04-17,
+409fae32-8470-43c4-8d7b-0139b7e5d44a,Yolanda Bowers,daniel19@example.com,Midwest,Apparel,Enterprise-wide 24hour matrices,3,255.28,765.84,2024-07-31,
+11d2a318-31d9-416d-9510-94edba41d8af,Allison Mclaughlin,srogers@example.org,South,Apparel,Polarized attitude-oriented definition,3,127.17,381.51,2023-02-10,
+67c629d7-074d-42c3-8473-ef42e7201c4f,Timothy Brown,josborn@example.net,South,Office Supplies,Cloned high-level process improvement,1,127.27,127.27,2024-07-11,refunded
+3d35b065-63fb-479e-b724-6c8557623d27,Rebekah Johnson,jimenezmatthew@example.net,Midwest,Electronics,Future-proofed secondary algorithm,20,173.02,3460.4,2024-08-26,Pending
+c79c0c6e-8e52-4b2b-9507-c7802e451e35,Randall Contreras,aliciameadows@example.com,Midwest,Apparel,Extended radical portal,17,220.6,3750.2,2023-12-01,Pending
+029b6e4b-5629-4829-9f90-3e2ebd9094df,Latoya Hull,marychavez@example.com,West,Electronics,Innovative global website,19,30.83,,2024-08-02,Pending
+b97985b3-a1ae-489f-9155-9b807214222b,Benjamin Rodriguez,joshua22@example.net,Midwest,Home Goods,Distributed grid-enabled circuit,16,127.09,2033.44,2023-12-14,refunded
+36c6df6c-e715-4441-aca3-35a40a737db1,Corey Barnes,vpalmer@example.com,West,Apparel,Self-enabling intangible encoding,16,115.91,1854.56,2023-09-23,completed
+94e41c93-9fb4-4547-b1f6-bd598a839942,Eddie Underwood,harrisbrandi@example.com,Midwest,Electronics,Total upward-trending solution,13,133.43,1734.59,2023-09-30,Pending
+c78a7742-ac15-4bf9-ab78-9b4748e7707d,Robert Abbott,stephenbauer@example.org,West,Home Goods,Persevering fault-tolerant flexibility,11,190.89,2099.79,2024-06-24,
+a23d9a25-923e-45ef-93a9-a06a4304fa8a,Larry Cunningham,catherine17@example.net,Northeast,Electronics,Pre-emptive coherent encoding,14,214.32,3000.48,2024-01-07,pending
+2790d23a-ffb3-4b80-8401-a2d0cb1b4132,Richard Roberts,charlene99@example.com,Midwest,Electronics,Realigned high-level task-force,11,109.84,1208.24,2024-11-16,
+e696be77-faad-4d64-9ba2-a349c58991b3,Karen Johnson,bradleycase@example.org,Midwest,Sporting Goods,Devolved zero-defect instruction set,1,227.05,227.05,2024-08-16,COMPLETED
+699632a7-75ca-4358-8a91-d0b55756055f,George Mills,elizabeth76@example.com,Midwest,Office Supplies,Phased optimizing open system,16,125.13,2002.08,2024-03-14,Pending
+cb513a1f-3923-49b8-986c-500563656570,Chris Mclaughlin,mchen@example.net,South,Sporting Goods,Realigned mission-critical protocol,15,124.38,1865.7,2024-03-29,refunded
+181f5217-8c49-4080-a609-667e57af2ed1,Timothy Aguirre,robertsstephanie@example.com,Midwest,Apparel,Reduced impactful task-force,,100.48,1406.72,2024-03-25,completed
+53421ce7-bfe8-435b-9958-f25fb7907ac5,Nicole Hall,asanchez@example.com,Northeast,Sporting Goods,User-centric demand-driven artificial intelligence,16,147.93,2366.88,2023-06-24,pending
+d1a08f7e-9b46-4eb1-9d4c-b19eeda4730f,Mark Howard,fishereric@example.net,Midwest,Office Supplies,Reactive stable application,17,127.55,2168.35,2024-02-26,pending
+63139dbf-a185-4d39-b522-83a688b32ab6,Abigail Price,lsanchez@example.net,South,Office Supplies,Team-oriented high-level Graphic Interface,15,144.7,2170.5,2024-09-30,completed
+f7bb77ec-4ffd-405f-ba3d-6b5ef94c1644,Cynthia Miller,roger59@example.org,South,Electronics,Multi-layered transitional product,20,137.76,2755.2,2024-08-25,pending
+c1460a36-c8b4-43e2-bde3-63954a0a4406,Janet Powell,houseshannon@example.org,South,Sporting Goods,Integrated optimal data-warehouse,3,76.57,229.71,2023-02-25,refunded
+9e15eb1e-3b15-4515-8b7b-cad67b0c5078,Caleb Garcia,anthonyporter@example.com,West,Apparel,Open-source leadingedge circuit,6,234.73,1408.38,2024-02-20,
+fae5bc56-9b5c-48e4-a46e-e62d4ccbff9e,Richard Stevenson,baxteradam@example.com,Northeast,Sporting Goods,Progressive real-time portal,11,269.67,2966.37,2023-11-10,Pending
+2e2b345c-5343-49a1-a689-1224f234d237,Charles Fields,kbowman@example.com,South,Electronics,User-centric intermediate workforce,8,173.36,1386.88,2023-04-13,
+105656ee-13d8-4ff4-858f-d0706688ab46,Emily Ford,zstuart@example.com,West,Office Supplies,Optimized clear-thinking groupware,8,9.28,74.24,2023-07-04,Pending
+d2c619b3-9554-4690-91dc-0bfb564fcf8d,Kimberly Cole,kimleslie@example.org,Midwest,Sporting Goods,Configurable multi-tasking emulation,1,247.78,247.78,2023-01-30,COMPLETED
+a8a4301e-6fb5-4609-b1dd-d403a0f79556,Kimberly Gray,navarroadam@example.net,South,Sporting Goods,Object-based executive project,12,266.0,3192.0,2024-08-01,COMPLETED
+fedb63db-6706-4089-8460-66a017180cb7,Craig Stone,holdenkathleen@example.com,Northeast,Sporting Goods,Inverse foreground algorithm,11,52.5,577.5,2023-04-07,Pending
+db5737c4-f664-4fbf-b9d0-083c819d8543,Leonard Lopez,todd16@example.org,Northeast,Electronics,Synergized 24/7 software,17,248.43,,2023-03-27,completed
+440b3ff4-7fed-4760-927b-4971e09040da,Stephanie Alvarez,jameshampton@example.net,Midwest,Apparel,Focused 3rdgeneration collaboration,12,165.94,1991.28,2024-02-07,pending
+a5a24b7a-31f3-425e-8454-cb6ffcc9ff34,David Mcdonald,laura49@example.org,Northeast,Home Goods,Multi-lateral contextually-based attitude,6,227.15,1362.9,2023-10-16,completed
+f1d2f162-ed1b-4b9c-97dc-eee511a5ac69,Kimberly Hansen,whitepaula@example.net,Northeast,Home Goods,Optimized upward-trending structure,20,163.14,3262.8,2023-09-07,Pending
+3e67c132-d1d8-4250-9b93-15a8c4bafea4,Chelsea Lopez,ksmith@example.com,South,Electronics,Front-line disintermediate installation,2,272.98,545.96,2023-12-20,pending
+9b42c6eb-3b31-4e03-97b7-4980656d0386,Robert Gordon,hmartin@example.net,South,Home Goods,Face-to-face asymmetric system engine,9,192.48,1732.32,2024-10-13,COMPLETED
+8d7fee56-15b9-4686-b02d-73cb850da121,Stephanie Wilson,lpeterson@example.net,West,Electronics,Persistent bandwidth-monitored budgetary management,20,-179.98,3599.6,2023-06-16,COMPLETED
+37eaebdf-3078-436a-8ba0-9d2b7442aa03,Justin Gonzalez,amy35@example.org,West,Electronics,Streamlined high-level projection,12,31.08,372.96,2023-10-07,completed
+aee99e1e-272f-428c-b8a1-777f3e29c6c8,Amanda Black,frank27@example.org,Northeast,Sporting Goods,Networked methodical migration,,156.79,1881.48,2023-11-12,Pending
+13285396-64e7-43a3-aba3-9402e5f61d32,Vanessa Freeman,manuelvance@example.net,Midwest,Office Supplies,Advanced zero-defect functionalities,17,165.57,2814.69,2024-02-02,Pending
+c5663056-cb46-4aaa-984a-6a974ad6b109,David Jones,hansenrebecca@example.net,Midwest,Apparel,Implemented neutral portal,17,38.45,653.65,2024-12-28,Pending
+7ee1b3fd-2eb5-4419-bfa7-0d3b315d950d,Erin Richardson,jacobsscott@example.net,West,Home Goods,Focused web-enabled function,1,139.78,139.78,2023-01-17,completed
+8a57d985-e885-4293-b0c6-347b6379faae,Sarah Hogan,brandon78@example.net,Northeast,Home Goods,Profound zero-defect focus group,1,-227.48,227.48,2023-02-18,completed
+5e6caa0d-b7d1-4800-aa48-78f1c6db6158,Joshua Matthews,hintonjohn@example.org,South,Electronics,Stand-alone optimal database,6,123.39,740.34,2023-08-23,
+15018d22-5e25-4d33-bc71-3adf34de4d31,Jeffrey Lamb,lauracooke@example.org,South,Apparel,Digitized dedicated project,20,77.13,1542.6,2023-02-17,pending
+defbbb40-417f-4366-88c6-947528099244,William Collins,carrillonichole@example.org,West,Office Supplies,Profound leadingedge budgetary management,2,132.4,264.8,2023-06-12,refunded
+f30c7f50-f9c5-4d22-9cad-4152346c9789,Andrea Cabrera,sandra34@example.org,South,Apparel,Assimilated holistic superstructure,17,41.6,707.2,2024-11-16,
+c77c1321-071c-4bb1-ae26-4369043140df,Joseph Crawford,jeffrey68@example.net,South,Sporting Goods,Compatible 24/7 Local Area Network,10,93.78,937.8,2024-01-18,Pending
+082e30e5-2d2e-45f9-a2b1-46e19b0c7d6d,Gina Murphy,jack68@example.net,West,Home Goods,Horizontal national website,17,89.13,1515.21,2024-06-18,refunded
+456c21dd-b1c7-4d94-a117-c292a24de7d2,Christopher Raymond,velazquezjulie@example.com,West,Office Supplies,Programmable high-level info-mediaries,,198.38,3174.08,2024-09-04,pending
+0f5c864b-e56e-4cf3-ae4d-1a3a98b49da4,Kelly Johnson,brenda90@example.net,Northeast,Home Goods,Upgradable directional toolset,12,285.38,3424.56,2023-07-01,refunded
+f61924f3-fc75-41d2-bf2a-8a1095c06950,Rebecca Parker,jamiewallace@example.org,Midwest,Office Supplies,Mandatory tangible definition,11,129.72,1426.92,2024-04-21,pending
+56ef496d-be22-4433-b6ba-86c46f8a6254,Russell Neal,millertracy@example.net,West,Home Goods,Compatible mobile help-desk,8,151.61,1212.88,2024-05-13,
+dcf45aac-474f-4fb7-9612-7652b2573452,Matthew Bailey,millerjacob@example.net,Northeast,Office Supplies,Robust systemic infrastructure,15,269.47,4042.05,2023-10-31,COMPLETED
+77a8b536-0f5a-4ccb-ae02-d53fb523364e,Donna Ritter,xjordan@example.net,West,Electronics,Integrated fault-tolerant alliance,1,241.15,241.15,2024-10-18,pending
+71cbb856-3385-4fe5-b589-e2b11a1ac87f,James Gonzalez,ryan06@example.com,South,Electronics,Enhanced contextually-based website,19,224.68,4268.92,2024-10-22,refunded
+8990372e-491a-40d3-9acf-9ba4df8e0fc7,Heather Chase,denisekeith@example.net,Northeast,Apparel,Diverse radical methodology,19,12.4,235.6,2024-05-11,completed
+d3208f8e-c83d-49bf-b21c-03906905f3fb,Brian Harris,daleburke@example.net,South,Electronics,Multi-tiered modular application,,75.86,1213.76,2024-05-08,pending
+29dc61b2-8b4f-48f8-a42a-cd5415ee67d8,Alexandra Allen,allenpaul@example.org,Midwest,Sporting Goods,Cross-platform bifurcated approach,17,50.74,862.58,2023-11-18,pending
+195c607e-778a-4626-8377-8042fafbf82e,George Green,ccooper@example.net,South,Apparel,Quality-focused demand-driven standardization,8,128.14,1025.12,2024-04-03,refunded
+687b6b91-8396-4499-801b-c79fa1da60ac,Todd Lewis,salazarmelissa@example.net,Midwest,Apparel,Compatible fault-tolerant access,17,270.07,4591.19,2024-07-04,completed
+8912119a-7d92-4c7a-8ef3-2c373df204b8,Denise Garza,angela28@example.net,Northeast,Office Supplies,Object-based impactful array,15,138.77,2081.55,2024-12-07,refunded
+6ff297bc-6414-4a07-93ce-9a09dcacf4b1,Jessica Miller,ymason@example.net,Midwest,Home Goods,Assimilated asynchronous complexity,2,294.89,589.78,2023-03-06,completed
+7ee6a9ec-3fb5-4a66-93c4-ed57e2deb5f3,Anna Rodriguez,astewart@example.org,Midwest,Home Goods,Future-proofed even-keeled extranet,11,105.36,1158.96,2024-06-08,COMPLETED
+91502f8b-ce60-4423-a566-7f0be8570315,Joel Brown,hsnyder@example.net,Midwest,Apparel,Enhanced systematic instruction set,10,61.9,619.0,2024-03-24,refunded
+9d036649-8bae-426e-a679-efc71b1de995,Daniel Moore,mariaberry@example.org,South,Sporting Goods,Multi-tiered actuating task-force,2,138.61,277.22,2024-11-12,pending
+a583094f-2a72-4e23-9075-6680edd3c00e,Joshua Grant,hunterjermaine@example.net,Midwest,Apparel,Triple-buffered even-keeled system engine,18,279.07,5023.26,2023-02-22,COMPLETED
+5ed93425-ef76-41ca-9a65-7ebe4ceecc9e,Albert Tucker,johnsonjessica@example.org,South,Office Supplies,Monitored asynchronous strategy,1,63.07,63.07,2023-01-04,Pending
+1740ecd9-bc3f-4808-bc3f-87a69a1265df,Kylie Davis,mariaparker@example.com,South,Office Supplies,Persistent client-server artificial intelligence,5,104.41,522.05,2024-11-20,completed
+efb52d8e-1d46-4395-8700-dfb534cef82d,Curtis Colon,vferguson@example.org,South,Office Supplies,Adaptive composite application,11,96.58,1062.38,2023-01-19,Pending
+9761c462-e955-4286-90d3-958a3ee3404a,Christopher Sanchez,graceromero@example.org,Northeast,Office Supplies,Digitized context-sensitive contingency,20,132.86,2657.2,2023-10-21,Pending
+4a88d40d-589a-490c-a0d3-136c7d707a44,Stacey Brown,tuckerchristina@example.com,South,Electronics,Quality-focused 24/7 neural-net,13,40.04,520.52,2023-07-29,pending
+6b5a01f8-30ed-4f8e-8909-3f327b4bff28,Oscar Terry,franklin81@example.net,Midwest,Electronics,Versatile exuding application,20,257.32,5146.4,2024-09-05,
+1b6e3aef-6be6-40db-bb34-c29832a26d81,Blake Watson,wandaolson@example.org,Midwest,Home Goods,Upgradable human-resource conglomeration,6,67.4,404.4,2023-08-06,Pending
+bdadd352-36a2-4ec8-8eff-1701521420c9,Edward Harris,rebecca32@example.net,Northeast,Electronics,Triple-buffered exuding projection,4,63.34,253.36,2023-04-05,pending
+64b7c4b4-55c6-4537-8750-e84698a060cc,Darren Alvarez,xmiller@example.org,Northeast,Home Goods,Re-contextualized 6thgeneration monitoring,5,12.82,64.1,2023-07-10,completed
+05a5d82f-6cf7-489a-ab18-39a3f3cf101f,Nicholas Humphrey,christine78@example.net,South,Electronics,Enterprise-wide human-resource alliance,1,40.26,40.26,2024-11-09,COMPLETED
+51c364bf-3c11-49b0-b12e-fb2da9910ebb,John Morgan,melaniephillips@example.org,West,Office Supplies,Total well-modulated analyzer,5,182.85,914.25,2024-02-17,Pending
+343db49e-865a-41d9-b034-6bc9abc59d08,Jessica Cole,hendricksstacey@example.org,Northeast,Apparel,Devolved responsive intranet,11,72.46,797.06,2024-12-03,Pending
+7f308372-0d94-48da-b6bc-3ca7d2d39f14,Deanna Smith,vmorrison@example.org,Midwest,Sporting Goods,Devolved 24hour conglomeration,15,289.7,4345.5,2023-11-18,Pending
+99d11c0d-e456-47e8-a52a-ae140695c614,David Burns,zhill@example.com,Northeast,Apparel,Business-focused needs-based structure,10,139.62,1396.2,2023-06-09,pending
+0470b419-d6fb-47c8-aa00-313dafbd4bf3,Jeffrey Johnson,timothy29@example.org,South,Office Supplies,Digitized leadingedge project,7,187.83,1314.81,2023-12-16,
+6f6a297d-cd65-4101-bc6d-e39c4ae14a0b,Sarah Franco,robertclements@example.net,Northeast,Office Supplies,Multi-layered attitude-oriented access,12,57.65,691.8,2024-12-06,Pending
+ef0d1609-864e-49e9-a227-4b29d4c2ec0c,Kristen Carroll,smedina@example.org,Northeast,Sporting Goods,Multi-layered homogeneous protocol,4,283.37,1133.48,2024-04-25,pending
+a38ce039-9cab-4254-a82b-fa1f8eac9389,Lynn Sutton,vrodriguez@example.net,Midwest,Apparel,Ergonomic contextually-based approach,7,71.59,501.13,2023-08-01,refunded
+bed681a8-b689-49ef-be80-fd4b9ea8a5f3,Michael Ramirez,wparsons@example.org,South,Office Supplies,Exclusive human-resource concept,15,19.85,297.75,2023-09-15,
+5464bdcf-8f0a-404a-bf64-021be3258d70,Ashley Gonzales,toddcourtney@example.com,West,Home Goods,Proactive fault-tolerant portal,9,220.6,1985.4,2024-02-03,completed
+a74732dc-e47a-4d6d-a6b1-0ca8f1bd06e5,Michelle Mann,wfreeman@example.com,West,Apparel,Digitized user-facing circuit,12,140.6,1687.2,2023-05-04,refunded
+4224bcdc-98a2-45e3-8ab2-db77ad900835,Christopher Brown,joshua09@example.net,South,Apparel,Intuitive needs-based strategy,,297.19,1188.76,2024-01-22,COMPLETED
+1b1647f6-f1a2-4802-8163-f7f64779b05e,Benjamin Nelson,jeremyrichmond@example.com,West,Home Goods,Reduced well-modulated parallelism,14,186.0,2604.0,2023-05-13,refunded
+e2cf8999-9eb5-45e3-b541-669613e4b290,William Herman,ralph57@example.net,Midwest,Sporting Goods,Ameliorated grid-enabled Graphic Interface,16,7.62,121.92,2024-06-23,Pending
+af352a50-794a-4764-96b1-1e354ac675b6,Melissa Cain,tammy69@example.org,West,Sporting Goods,Monitored value-added structure,18,146.42,2635.56,2024-10-17,Pending
+1f3d2a6c-7e2c-4ee6-b68f-5648d0f7e316,Kristen Kemp,thomasshields@example.com,South,Home Goods,Down-sized mobile groupware,8,20.45,163.6,2024-09-18,refunded
+2c2e2d26-7ff1-4e16-b4a0-24a8c552aa72,Brian Nguyen,aboyd@example.com,West,Sporting Goods,Switchable composite customer loyalty,15,36.05,540.75,2024-04-15,
+a4897230-2cee-4025-b039-b5aa8b3e3217,James Willis,james79@example.net,Midwest,Sporting Goods,Sharable tangible conglomeration,6,57.43,344.58,2023-09-03,completed
+8a894e20-847b-4bd5-8cb9-53ff762fa688,Sarah Hughes,alexismartinez@example.net,West,Electronics,Focused hybrid software,4,98.45,393.8,2023-10-30,
+2ec10490-e785-42bd-992f-4e6aaaed2741,Anthony Raymond,carlsonnathan@example.org,Northeast,Apparel,Open-source non-volatile portal,16,27.33,437.28,2024-12-31,Pending
+ea25e378-6e35-49d6-8088-be668a4dde48,Timothy Jones,christy41@example.org,South,Home Goods,Distributed intermediate superstructure,15,139.73,2095.95,2024-02-23,pending
+6b8e164b-5311-4fd2-baa2-0c16e43e5508,Nicole Rodgers,wilsonangela@example.net,West,Apparel,Ameliorated 24hour pricing structure,6,190.99,1145.94,2024-01-10,COMPLETED
+0d6f43fb-5e94-4bb8-94bd-d050b6ea99ad,Kevin Stuart,xraymond@example.com,South,Sporting Goods,Synergistic demand-driven conglomeration,9,125.13,1126.17,2023-05-26,COMPLETED
+c5d95060-7de6-490e-8bae-93c7f0519d43,Lorraine Brown,wparrish@example.org,Midwest,Home Goods,Devolved zero-defect monitoring,16,119.01,1904.16,2023-09-26,completed
+26ada9b9-3fae-4581-bcdf-0a9bbb3c4876,William Reed,ysmith@example.com,South,Apparel,Ergonomic local benchmark,4,264.25,1057.0,2024-12-05,pending
+0c5f25d0-5cd8-40d2-b409-e35c8e980018,Brenda Hill,jeffreywilson@example.org,South,Electronics,Programmable didactic success,1,152.1,152.1,2023-11-25,Pending
+4d02d276-356f-4906-8185-181481686f2e,Alejandra Huffman,salexander@example.com,West,Home Goods,Down-sized systemic analyzer,8,145.04,1160.32,2024-09-14,refunded
+d454ab7c-28de-4de8-bcfd-7f21fb5e8c7a,Jermaine Cline,sawyerjohn@example.org,South,Home Goods,Centralized zero administration projection,12,7.76,93.12,2024-06-02,pending
+5c678330-228e-411c-bb2f-7da122653502,Joshua Powell,cassandra74@example.com,South,Home Goods,User-centric neutral open architecture,3,99.31,297.93,2023-04-18,Pending
+daefa613-2b97-4628-b5a5-4d4a0c4a15af,Kelsey Davis,mark65@example.com,Northeast,Home Goods,Public-key content-based Internet solution,5,96.74,,2024-06-17,
+8daf1e78-e428-45f9-ae0f-ab469ddb689e,Tonya Taylor,michelesmith@example.org,Midwest,Sporting Goods,Stand-alone composite collaboration,,94.81,94.81,2023-07-07,completed
+235483d1-b4d5-428b-895e-559d7178c35f,Christina Brooks,robert48@example.com,West,Apparel,Visionary empowering concept,18,137.04,2466.72,2024-11-25,COMPLETED
+9c5e5f15-deff-4dc7-afcb-7b10345fd728,Daniel White,eileenguzman@example.org,Northeast,Sporting Goods,Persistent motivating solution,3,7.58,22.74,2024-03-07,completed
+275073ac-1f96-440c-9b00-a55c69d3c338,Jacob Young,stacey32@example.org,West,Home Goods,Persistent bifurcated system engine,9,103.62,932.58,2024-09-24,
+386032e1-c018-4474-91e2-2ddb63e25f2b,Christopher Small,vcarpenter@example.net,West,Electronics,Pre-emptive demand-driven access,8,91.6,732.8,2024-09-25,pending
+a91b8857-c476-47d2-b9f2-8303ff141b8d,Deborah Browning,christine17@example.net,South,Electronics,Open-source zero-defect time-frame,4,32.58,130.32,2023-08-21,refunded
+4b62d3bc-8dd2-4f45-8f1f-f5acc76c1202,Christian Rodriguez,hrodriguez@example.com,West,Home Goods,Monitored tertiary installation,4,213.44,853.76,2023-01-23,completed
+f7642b8b-1380-4568-acc6-c98eeeb255ba,Bradley Dixon,holly67@example.com,West,Home Goods,De-engineered zero-defect knowledgebase,17,269.34,4578.78,2023-09-16,Pending
+253aa4d0-9c46-4c11-8e16-a948ffcb43d5,Mathew Hicks,adam21@example.org,South,Apparel,Enhanced interactive matrices,,295.94,5326.92,2023-12-31,Pending
+fb7edd15-dafe-4fd2-bb06-97b187ded676,Charlene Thomas,kelsey62@example.net,South,Electronics,Right-sized actuating superstructure,16,203.79,3260.64,2024-09-23,
+2cc4f760-59da-4546-96fa-1dfca36ec660,Katrina Olson,kevingarrett@example.com,West,Electronics,Extended asynchronous methodology,7,280.11,1960.77,2024-07-05,Pending
+a7166e2a-74c7-4d58-a966-33698ef22f08,Matthew Ayers MD,jasonjones@example.net,Northeast,Sporting Goods,Switchable scalable archive,6,28.06,168.36,2023-03-17,
+d6383d4e-4ca3-4358-b254-e8d7a466ed84,Anthony Wheeler,mooneyjohn@example.org,South,Office Supplies,Mandatory coherent website,12,184.73,2216.76,2023-06-28,completed
+f79cabcb-065d-4641-b515-17d6c54f8813,Kim Johnson,erichmond@example.org,Midwest,Sporting Goods,Open-architected 4thgeneration model,6,32.7,196.2,2023-10-05,
+9655fcdb-551d-4d7f-b189-dab4663e98f9,Timothy Duncan,robinsonjames@example.com,Midwest,Home Goods,Intuitive intangible database,20,208.01,4160.2,2024-04-05,
+3eb7e6b3-a064-4021-a340-c1c5b3e84110,Phillip Morales,richardmullins@example.org,West,Sporting Goods,Synergistic client-server knowledge user,3,-274.64,823.92,2024-06-17,refunded
+f8519185-08db-455b-ad25-b46faad17ba0,Martin Owens,nicolegarner@example.org,Midwest,Home Goods,Mandatory next generation secured line,18,222.19,3999.42,2023-01-02,
+02cc040c-1055-4ac0-a84c-e09d8b77307d,Brandy Murphy,rosstravis@example.org,South,Electronics,Exclusive didactic emulation,12,292.8,3513.6,2024-08-15,pending
+429c9a3b-4893-41a6-9e17-e1496a161dad,Jonathan Sherman,newtongarrett@example.net,Midwest,Office Supplies,Assimilated optimal array,14,274.67,,2024-03-10,COMPLETED
+e42faab0-0645-4b3f-b385-3e74dadcc8b4,Thomas Powell,agonzalez@example.net,West,Sporting Goods,Implemented foreground budgetary management,5,177.97,889.85,2023-10-19,COMPLETED
+06a9f188-1400-4d1a-b0b3-c465e8659104,Jose Weber,michaelgrant@example.net,Midwest,Home Goods,Seamless contextually-based attitude,1,110.53,110.53,2023-09-30,completed
+78b709d7-be4c-4f85-93c2-3b12d791e553,Danielle Fernandez,collinsamanda@example.net,South,Office Supplies,Operative heuristic budgetary management,2,63.42,126.84,2023-08-30,
+39cd37c8-df4a-4999-ae34-fc9db9e903e2,Frederick Wells,corey86@example.net,Midwest,Office Supplies,Right-sized intermediate groupware,7,8.9,62.3,2023-02-22,
+cf2106e8-a57e-474e-9d6a-67726553ea64,Mark Bradley,sherrimcneil@example.net,West,Home Goods,Pre-emptive secondary portal,20,24.3,,2024-01-02,COMPLETED
+ea4e5c97-0dad-4dec-83c5-56cdbdeb5be4,Robert Small,kimberly16@example.org,West,Electronics,Programmable real-time conglomeration,2,162.88,325.76,2024-12-11,COMPLETED
+e595df5f-cbc0-4b8f-89cb-041094f54292,Anthony Price,andersonrussell@example.net,Midwest,Electronics,Assimilated client-driven collaboration,20,36.41,728.2,2024-11-30,refunded
+59ef8781-5005-4117-9657-611dd868a800,Robert Morales,cescobar@example.net,Midwest,Apparel,Front-line systemic info-mediaries,9,37.01,333.09,2023-04-28,
+b31247bd-972c-46ba-90bf-66624e571d93,Sarah Johnson,richardscraig@example.org,West,Apparel,Quality-focused fresh-thinking middleware,10,131.05,1310.5,2024-03-13,Pending
+cdd2d468-cb06-41ca-9788-b34ad55cf995,Nicholas Smith,madison02@example.org,South,Apparel,Public-key interactive strategy,17,42.79,727.43,2024-04-09,COMPLETED
+c452f8e8-020c-41ac-a039-695563b1b48a,Stephanie Johnson,pdavidson@example.com,South,Office Supplies,Enhanced multi-tasking moderator,1,59.17,59.17,2023-10-19,
+9fb65723-a42c-486d-8940-c84b81589bdf,Mrs. Julie Young DDS,briangoodwin@example.org,Northeast,Home Goods,De-engineered zero-defect knowledge user,9,120.8,1087.2,2023-12-10,pending
+d9a00f21-a5ef-479b-922f-c092070b1a72,Daniel Reese,jamesstacy@example.net,Northeast,Home Goods,Robust bifurcated conglomeration,9,8.25,74.25,2024-03-11,completed
+4b832e1a-f059-480a-b4a6-9412886d73c1,Wesley Bates,jhicks@example.org,Northeast,Apparel,Programmable incremental task-force,16,45.78,732.48,2024-06-11,pending
+744a85ae-08fe-49ef-abec-732d9d4c8635,Cynthia Kidd,amandatucker@example.org,West,Office Supplies,Visionary real-time service-desk,18,240.53,4329.54,2023-10-24,
+b3b60e1b-75b2-4c30-87f8-faa155a69c00,Jessica Fischer,hansenelizabeth@example.net,West,Apparel,Profound holistic time-frame,5,219.75,1098.75,2024-05-06,completed
+ddba52d2-7568-4542-b527-1082a7789a6a,Michael Cook,gbishop@example.net,West,Electronics,Realigned cohesive workforce,3,164.89,494.67,2023-07-18,Pending
+7aef2dd6-4dfd-45e5-a35e-5be78e09573a,Brian Woodward,tgreen@example.com,Midwest,Sporting Goods,Switchable content-based architecture,,57.99,347.94,2023-05-14,COMPLETED
+71e93fd5-9245-47a6-a832-4c4f65c9d39d,Keith Moss,wilsonemily@example.org,Northeast,Electronics,Inverse next generation toolset,4,202.46,809.84,2023-10-02,
+a199afa6-f843-4881-95f9-5d48708e977c,Kelly Beck,bradtaylor@example.net,South,Apparel,Team-oriented full-range data-warehouse,19,41.46,787.74,2023-01-08,refunded
+06feeaa0-03f8-459b-929d-2ee6cd00bacc,Andrew Parker,khenry@example.org,Northeast,Office Supplies,Monitored dynamic parallelism,18,35.66,641.88,2024-01-02,Pending
+45ee3476-a9bc-49dd-8fbc-1a05969bb829,Robert Harrington,peter68@example.com,Northeast,Home Goods,Expanded web-enabled frame,3,217.8,653.4,2023-10-02,Pending
+4f26449b-19d8-4974-8545-c196a1230379,Thomas Boyd,pearsonrichard@example.com,West,Electronics,Right-sized 6thgeneration product,8,290.66,2325.28,2023-06-06,refunded
+348b908e-5c08-4bf4-a04c-6a61b7786aae,Bobby Oneill,michellemcdaniel@example.net,West,Home Goods,Secured neutral forecast,2,217.67,435.34,2024-10-30,COMPLETED
+034a7c5d-807f-4604-becd-447ed157e9e3,Andrew Obrien,torresjacob@example.org,South,Apparel,Upgradable fresh-thinking artificial intelligence,12,121.01,,2023-06-23,pending
+2e79f764-1bd2-4d38-85fc-942a4e4529cb,Autumn Daniel,wellssean@example.org,Northeast,Sporting Goods,Synchronized responsive adapter,16,68.36,1093.76,2024-09-29,completed
+9bd4bcf3-081a-419a-8aef-b0bf641743d4,David Hoffman,kennethreynolds@example.com,West,Electronics,Persistent motivating help-desk,3,209.83,629.49,2024-04-20,
+ddb1f380-9ef6-4b8e-9b52-57d1017fc95c,Joshua Butler,thompsoncrystal@example.org,Midwest,Sporting Goods,Diverse logistical data-warehouse,12,117.24,1406.88,2023-12-31,COMPLETED
+43ee4aaf-9905-467f-83a8-df7b4fbd7d10,Rachel Andrade,matthewking@example.org,Northeast,Apparel,Re-engineered bifurcated extranet,14,153.41,2147.74,2023-09-09,completed
+128fe0d4-b108-45dc-8037-b48b7ed0e1ea,Jesse Jenkins,donaldjackson@example.com,West,Home Goods,Horizontal empowering moderator,5,86.2,431.0,2023-11-02,
+7a1bfe2f-97af-4e7b-bb5f-0e881560dce9,Lee Flynn DDS,tamaramcdowell@example.net,Northeast,Electronics,Implemented impactful installation,18,123.75,2227.5,2024-12-01,refunded
+79e8d2e7-0665-4c91-9336-610d1d98116c,Hannah Moreno,andrew34@example.net,Northeast,Office Supplies,Devolved modular matrices,19,294.63,5597.97,2023-09-29,refunded
+af430bc8-366e-45dc-9e8b-bc8ade867bcc,Francisco Rodriguez,ballerica@example.org,South,Apparel,Fully-configurable transitional solution,8,195.83,1566.64,2024-08-24,completed
+d10869f6-b481-4ec7-a979-b082a0fe4b1f,Patrick Simmons,lawrencejames@example.com,South,Home Goods,Public-key stable projection,18,52.02,936.36,2023-07-02,COMPLETED
+faefb9c4-6fcc-4c9c-b5c8-e2bdac77a523,David Sosa,karensutton@example.org,South,Home Goods,Expanded demand-driven open architecture,14,153.13,2143.82,2024-05-27,
+8284f923-4f45-48c1-80d8-da334c82167e,Kimberly Choi,gonzalezchristopher@example.net,West,Home Goods,Synergistic dedicated model,10,252.25,2522.5,2024-07-28,Pending
+2eae9c98-ef74-47ab-b662-0651f8d9f5c9,Lisa Taylor,ramirezgregory@example.com,Midwest,Electronics,Business-focused cohesive orchestration,10,8.41,84.1,2024-09-04,completed
+18e37c88-01e6-4895-a8da-53be289e2fca,Linda Phillips,rileygregory@example.org,South,Sporting Goods,Fundamental demand-driven groupware,16,40.32,645.12,2024-04-11,COMPLETED
+5ef537d9-c8cd-4395-98c0-3565ab0c8743,Destiny Flowers,patricia41@example.net,Northeast,Office Supplies,Function-based transitional workforce,2,281.57,563.14,2024-05-14,COMPLETED
+92d5caec-a76b-4b9f-b5df-254b372cb069,Carl Cochran,gracevargas@example.net,Midwest,Sporting Goods,Optimized value-added projection,14,88.51,1239.14,2023-11-03,COMPLETED
+7ede85df-f8c3-43ec-874e-18a160ed5002,Caitlyn Short,gregory85@example.net,West,Apparel,Upgradable neutral solution,11,249.28,2742.08,2023-04-21,
+c5c7f0b7-f996-44e3-889c-2fc340c7cc5a,Kenneth Allen,gregoryward@example.com,West,Office Supplies,Function-based discrete frame,13,231.34,3007.42,2023-12-10,pending
+74d931e6-3491-4f34-a3e1-1073de617811,Patricia Kent,jessica56@example.net,West,Sporting Goods,Extended 5thgeneration circuit,10,157.77,1577.7,2024-04-10,completed
+0aad2584-237d-457e-8b59-036ee9aee9b2,Michael Kramer,jameswalker@example.net,Midwest,Electronics,Re-contextualized zero tolerance infrastructure,7,192.46,1347.22,2024-06-05,completed
+eb8a1eac-ab81-43e1-9666-31726af0f598,Kristin Martin,miguelriley@example.com,South,Electronics,Synergized mission-critical matrix,15,11.36,170.4,2023-04-28,completed
+aa2c896a-0c04-4502-98ad-7514563794ba,Julie Wilson,gregory50@example.com,Midwest,Apparel,Self-enabling methodical complexity,15,90.1,1351.5,2023-10-06,pending
+e02b0059-0d9c-4c3f-9004-b4d0dc32a8a2,Mark Becker,lynchmichael@example.net,Midwest,Sporting Goods,Ergonomic next generation ability,12,287.86,3454.32,2023-11-25,
+794d6316-2be5-4bb9-b29b-5e11b19360c6,Rhonda Torres,mariataylor@example.org,Northeast,Apparel,Reduced radical throughput,4,7.22,28.88,2023-06-11,Pending
+e11a93c6-fbe3-40cc-a5b6-abde36d0c604,Penny Cruz,phunter@example.org,West,Office Supplies,Team-oriented tangible matrices,3,93.12,,2024-12-07,refunded
+94efc264-7788-4e80-b8c6-ed5618186c1c,Scott Wallace,vhenderson@example.org,Northeast,Apparel,Enterprise-wide attitude-oriented orchestration,9,254.1,2286.9,2023-09-10,COMPLETED
+30260a0d-5f3c-46ae-9ab4-1ebd3c87de0a,Nathaniel Orr MD,melissa11@example.net,West,Apparel,Switchable mobile core,16,282.91,4526.56,2024-10-21,
+3fa4364d-7ac2-4c9b-be47-399d727491d0,Sarah Conner,croman@example.net,West,Electronics,Multi-layered bottom-line productivity,18,46.57,838.26,2024-02-05,completed
+661205d6-7966-47f8-9674-c3cb19d23884,Theresa Cooper,barkerkimberly@example.org,West,Apparel,Object-based web-enabled initiative,3,190.78,572.34,2023-05-28,refunded
+00af7b51-7e59-4d4c-8aee-744988f5d476,Mckenzie Gonzalez,keithmurphy@example.org,Midwest,Sporting Goods,Optimized cohesive portal,13,59.88,778.44,2024-10-08,COMPLETED
+c5f28c02-845b-4362-8ec6-7126871d1a4a,John Vaughn,james69@example.com,Midwest,Sporting Goods,Total needs-based neural-net,12,211.5,2538.0,2023-06-01,pending
+17b06f8c-9234-4aeb-93ca-eae857bd9b06,Michael Lang,amy68@example.net,West,Electronics,Programmable 3rdgeneration knowledgebase,13,297.79,3871.27,2023-04-30,completed
+35dfc582-674e-42e3-a498-beec35238788,Keith Key,zkidd@example.org,Northeast,Home Goods,Ameliorated attitude-oriented firmware,5,98.1,490.5,2023-04-14,Pending
+4613b62c-cda9-4b74-9f57-63ced19eaea8,Brandi Bailey,savannah15@example.com,South,Electronics,Distributed analyzing application,5,138.64,693.2,2024-03-21,COMPLETED
+76057448-766d-4fa8-9c4f-c26b11316a64,Casey Hernandez,penningtonfernando@example.org,Northeast,Apparel,Intuitive user-facing software,2,258.76,517.52,2024-11-29,COMPLETED
+1130acb0-32d7-40de-9375-c8aa510fc52d,Sarah Flowers,kbernard@example.net,Midwest,Electronics,Object-based bandwidth-monitored forecast,16,76.54,1224.64,2024-06-18,
+a10b4791-c526-44b2-b329-04c30ccdc433,Jordan Ray,alvarezdavid@example.com,Midwest,Home Goods,Multi-channeled leadingedge encoding,9,204.47,1840.23,2023-11-26,COMPLETED
+ee985d6d-c6ea-484f-9335-3ed6aad6ab96,Brittany Jarvis,kevinjohnson@example.com,South,Apparel,Re-engineered solution-oriented monitoring,13,171.75,2232.75,2023-01-25,refunded
+479f818d-89d7-4259-941a-6fecfe634b22,Stephen Vega,diazcaleb@example.com,West,Sporting Goods,Seamless intermediate knowledge user,19,140.11,2662.09,2023-01-13,COMPLETED
+8b8a07d8-0303-4e7f-9cfe-0ed4162f38a9,Dawn Norman,gregory46@example.net,Midwest,Apparel,Optional cohesive knowledge user,4,239.59,958.36,2024-05-21,refunded
+7092db36-cbf7-4833-b60f-364f98f68997,Thomas Gentry,lortiz@example.net,West,Home Goods,Phased next generation model,6,155.26,931.56,2023-09-13,
+3699ea32-307f-42d7-b24f-2fab3ccd5bb5,Jacob Morris,mallorywebster@example.com,Northeast,Office Supplies,Horizontal tangible structure,15,87.61,1314.15,2023-09-05,Pending
+bec080bf-3eb4-49f5-a281-170a5bf61af7,Bryan Brown,qmeyer@example.com,South,Sporting Goods,Universal solution-oriented complexity,8,245.05,1960.4,2024-10-05,completed
+5c38727d-683d-4ff4-909c-03d7f5d7a186,Joshua Ortiz,tonylarson@example.com,Midwest,Apparel,Progressive local utilization,6,115.31,691.86,2024-04-24,COMPLETED
+8a29e1f8-9ade-4478-b8ec-5a88d64b729b,Andrew Cox,allison70@example.net,South,Home Goods,Sharable attitude-oriented knowledge user,15,244.75,3671.25,2023-07-21,COMPLETED
+9635a3c7-23ca-4df4-ae22-d30f4236487a,Stanley Ross,paulbrewer@example.net,South,Office Supplies,Ergonomic static pricing structure,11,46.43,510.73,2023-11-14,completed
+a4844ebc-5cf5-4cde-9af3-6ab771c2982a,Jesus Harrison,ryan29@example.org,South,Home Goods,Organized modular Graphic Interface,5,7.34,36.7,2023-04-10,COMPLETED
+2b5691f5-0c42-4f18-a79a-e15fc1e2b9df,Cameron Burnett,willisdaniel@example.org,Northeast,Sporting Goods,Organic content-based portal,12,261.78,3141.36,2024-03-01,Pending
+c08a7466-bc89-475f-b2ab-ea1f62f8a2fd,Angelica Brooks,jessicahicks@example.net,South,Sporting Goods,Centralized motivating instruction set,13,98.02,1274.26,2023-07-25,Pending
+df2d3a63-8b5a-448f-a962-b0037ca8fce6,Melvin Mason,patricia53@example.com,South,Home Goods,Networked empowering database,18,-227.84,4101.12,2023-06-05,pending
+971d02cc-cd17-409a-a42b-278f91f78289,Mr. Brett Kelly MD,mckeelisa@example.org,West,Office Supplies,Reverse-engineered needs-based contingency,14,207.64,2906.96,2024-06-01,pending
+92002875-911e-49fb-9eb6-aa12e5073364,Steven Adkins,frank81@example.org,Midwest,Apparel,Sharable background help-desk,4,147.05,588.2,2024-11-19,pending
+d28c2daf-7bdf-4a7c-9173-484f3c400352,Michael Mccarthy,theodorefrazier@example.org,Midwest,Office Supplies,Diverse neutral encryption,5,295.23,1476.15,2023-08-16,completed
+f6f331ee-3c02-4b23-9d6d-d4043e1c2012,Lori Brown,shepherdrichard@example.org,Northeast,Office Supplies,Distributed multi-tasking knowledgebase,7,102.57,717.99,2023-01-21,refunded
+5a283ee2-2923-44df-9bcf-44aa11074820,Samantha Thomas,williamscynthia@example.net,South,Apparel,Integrated multi-tasking monitoring,,231.06,3003.78,2024-08-07,refunded
+6005824a-4652-42b1-8a1d-f1ea6868915a,Jessica Chavez,david51@example.net,Northeast,Sporting Goods,Persevering human-resource hardware,14,139.31,1950.34,2023-01-08,
+faf2e5b3-9ca9-4909-85a7-8aeaadb1372f,Joshua Wolfe,dawnrichard@example.com,West,Home Goods,Robust multimedia process improvement,16,215.95,3455.2,2023-02-11,
+45e1d4e7-15bf-48cc-ac7d-af526dc8dc5e,Bridget Banks,david29@example.org,West,Apparel,Vision-oriented motivating circuit,2,24.21,,2024-10-11,
+b95398f6-a826-4098-82eb-31cb29adb1f7,Kimberly Schmidt,dle@example.org,West,Sporting Goods,Enhanced object-oriented hub,,59.63,178.89,2024-06-23,refunded
+90877db4-1389-40b9-98b5-8e911bba3166,Alexander Santos,sandersterri@example.net,Northeast,Office Supplies,Innovative logistical projection,10,125.83,1258.3,2023-12-28,
+8f8a7d86-11e2-4084-8ff0-e45b36ef0754,Jason Le,kurt25@example.com,West,Office Supplies,Re-engineered fresh-thinking neural-net,5,231.02,1155.1,2024-07-04,Pending
+d138711e-d622-4594-b9c9-5e626fb58dec,Catherine Wilson,ddaniels@example.com,South,Apparel,Upgradable high-level throughput,14,67.61,946.54,2024-06-07,refunded
+9abf29b5-313b-4286-95e6-4b2581190d2b,Katherine Wilson,msawyer@example.com,Midwest,Apparel,De-engineered reciprocal capability,12,290.06,3480.72,2024-02-11,completed
+8b98b4f7-b5be-4dcd-be0a-cb1884cb656c,Chris Williams,alejandro98@example.org,West,Apparel,Customer-focused static strategy,17,48.58,825.86,2024-05-11,Pending
+84e519af-0962-4c5c-af00-a282708ca772,Manuel Richardson,hunterspencer@example.com,Midwest,Sporting Goods,Upgradable executive success,16,53.74,859.84,2024-07-17,refunded
+5f83bec5-689f-4731-9add-6ced0a69148d,Tyler Wright,ywilliamson@example.com,West,Apparel,Self-enabling motivating help-desk,9,59.63,536.67,2024-01-11,completed
+914aded4-bb21-4700-b478-421e2edc3bda,Lee James,nschwartz@example.net,Northeast,Office Supplies,Front-line explicit success,3,89.21,267.63,2023-02-14,Pending
+5916b079-552f-428d-9412-e8d51378b7ab,Chad Stevens,moralesroger@example.net,West,Office Supplies,Business-focused 24/7 system engine,7,171.03,1197.21,2023-02-27,pending
+7b7839fb-6661-40a9-bb29-5c66379be9ab,Charles Santana,zdawson@example.com,Midwest,Electronics,Distributed secondary emulation,17,281.63,4787.71,2023-04-15,pending
+ff1062bc-3222-45f5-9d28-4ddf3d63124c,Joseph Saunders,jerry84@example.com,South,Electronics,Multi-layered incremental open system,10,150.82,1508.2,2024-11-14,Pending
+2e6cd919-b337-4c60-9144-4b9e4369521c,Marie Wright,rblack@example.com,Northeast,Home Goods,Extended intangible paradigm,14,-28.56,399.84,2023-05-01,COMPLETED
+b2981f6c-edf6-45d7-8f8e-c97e6848bba3,Allen Diaz,marycosta@example.org,South,Sporting Goods,Centralized encompassing knowledge user,20,11.19,223.8,2023-03-24,refunded
+c63f1759-2ca9-4bfa-8b11-f1557fc610ae,Erik Lopez,thomas49@example.com,South,Home Goods,Exclusive systemic array,7,241.37,1689.59,2024-02-16,pending
+f83597db-167c-4123-9d16-f0d3119fb6e9,James Parrish,savagericky@example.com,Midwest,Office Supplies,Networked mission-critical forecast,16,15.28,244.48,2023-03-28,
+a407c1c4-7855-4a8a-a09f-5c0c18172de8,John Rodgers,jennifer49@example.net,West,Home Goods,Programmable static adapter,4,190.38,761.52,2024-01-14,completed
+3e2c6713-c686-46bf-927f-97e828f95569,Rebecca Hill,qgreen@example.net,Midwest,Office Supplies,Vision-oriented motivating ability,3,155.92,467.76,2024-02-11,COMPLETED
+ef8fb074-b7a5-4965-acb0-5a18c5a7ace5,Elizabeth Joseph,moniqueowen@example.net,Northeast,Home Goods,Networked modular Graphical User Interface,1,77.98,77.98,2024-01-17,Pending
+51174f64-1644-4ddd-894b-b1f9bf640bed,Joe Terry,earmstrong@example.net,Midwest,Office Supplies,Programmable bottom-line conglomeration,9,168.36,1515.24,2024-11-21,completed
+e92fe7fb-8459-4db6-b03c-f4abf8ccbe41,Billy Gomez,stevenking@example.com,South,Office Supplies,Synergistic client-server parallelism,19,105.48,2004.12,2024-09-20,COMPLETED
+5d418965-b210-49b9-9097-3014235eaf5f,Susan Gonzalez,jonathanharrington@example.com,West,Apparel,Secured reciprocal solution,14,205.76,2880.64,2023-03-31,refunded
+b12cf247-7a27-433a-807c-72591aeae110,Nathan Bowen,joseph66@example.com,Midwest,Home Goods,Profound fault-tolerant functionalities,,20.89,146.23,2024-08-11,COMPLETED
+666b837e-41d3-4e38-8f7d-89dab2fbd75e,Christopher Ward,walkeralyssa@example.net,West,Electronics,Function-based bottom-line Graphical User Interface,9,178.95,1610.55,2024-09-25,COMPLETED
+203b3d54-4fad-4eb9-b410-4efe85aefec0,Donald Carter,estone@example.org,Midwest,Office Supplies,Reverse-engineered bifurcated conglomeration,20,215.81,4316.2,2023-06-15,COMPLETED
+eb84f3d5-7f4c-40f2-8597-b804a5e67b36,Julie Henry,timothymarshall@example.net,Northeast,Electronics,Extended secondary toolset,14,199.39,2791.46,2023-03-25,
+461475d5-0303-4029-b734-22ab13fccfa2,Jeffrey Riley,shelley39@example.net,Midwest,Sporting Goods,Object-based hybrid help-desk,16,77.79,1244.64,2024-10-26,
+735c792a-bf4f-4710-a53b-ad1527b86f4f,Douglas Wiley,joshuacopeland@example.net,Midwest,Office Supplies,Adaptive foreground knowledge user,18,156.37,2814.66,2023-08-20,COMPLETED
+1b29b75c-1b98-4629-b8f1-d503f17bdde8,Brittany Reed,john32@example.com,Northeast,Home Goods,User-centric zero administration budgetary management,13,13.37,173.81,2024-10-07,refunded
+2f05db0e-99aa-4980-85fa-9f9587a08010,Lucas West,gambledylan@example.com,Northeast,Home Goods,Total fresh-thinking portal,11,239.77,2637.47,2024-04-12,COMPLETED
+fad6dd5a-c539-451c-bcdb-0cdc6ccc7b1e,James Taylor,kimberlyhoward@example.net,Midwest,Home Goods,Vision-oriented well-modulated data-warehouse,,125.68,1005.44,2024-02-23,pending
+cd4b414a-fe32-4261-b971-6c250310ded0,William Lee,castrokristina@example.net,Northeast,Electronics,Profound explicit function,11,167.9,1846.9,2024-05-10,refunded
+f6a609d7-1bc5-493d-9e39-db4c0e154463,Robin Freeman,kenneth81@example.org,West,Office Supplies,Team-oriented discrete interface,4,5.8,23.2,2023-12-19,completed
+ae7a6096-cfbc-4dfe-90f1-6ee9ae16e3b9,Melody Matthews,ujones@example.org,South,Office Supplies,Multi-tiered real-time contingency,4,69.41,277.64,2024-08-20,pending
+a360daa9-8f69-428b-bed2-23352ec31653,Erin Phillips,dawn21@example.net,Midwest,Electronics,Customizable motivating utilization,4,231.99,927.96,2024-09-15,refunded
+73d69486-bb4e-4240-af96-8fb6c43e986c,Christopher Knox,derekmueller@example.com,Midwest,Electronics,Universal cohesive Graphical User Interface,1,98.95,98.95,2024-10-19,pending
+40441256-cf43-4c61-97d6-fa7ec44d229f,Craig Martinez,courtney13@example.net,West,Apparel,Proactive directional strategy,16,238.39,3814.24,2023-02-23,COMPLETED
+d95fa794-540b-4cb8-9366-37be21d63c87,Elizabeth Contreras,ashleecollins@example.com,Northeast,Apparel,Reverse-engineered leadingedge website,1,137.58,137.58,2024-08-17,completed
+a943c4c8-e8cc-4ad6-bc78-5ca60a867a47,Justin Higgins,paulatapia@example.org,West,Office Supplies,Polarized multi-tasking functionalities,11,31.27,343.97,2023-12-17,refunded
+151abdbb-3c31-4444-9184-afc28e36a51b,Janet Hill,wheelerjennifer@example.com,Northeast,Apparel,Visionary clear-thinking database,19,225.82,4290.58,2024-04-29,COMPLETED
+e806ef31-bf48-4f66-9a99-eb903b787a57,Ashley Taylor DVM,amiller@example.net,West,Home Goods,Diverse coherent hierarchy,11,61.72,678.92,2024-04-15,completed
+007cb3ca-50f6-4dbd-8575-6ae9202c2ebe,Tammy Murphy,william21@example.org,Midwest,Sporting Goods,Visionary upward-trending knowledge user,7,80.16,561.12,2023-05-30,refunded
+1919d065-eec0-418d-a379-762d9ad1551e,Christine Zamora,leecurtis@example.org,West,Electronics,Devolved intermediate extranet,18,98.47,1772.46,2024-05-24,completed
+0326e3e0-c4cc-4b38-b03d-935f66e604d7,Justin Bailey,stephen83@example.com,Northeast,Apparel,De-engineered interactive hierarchy,2,40.26,80.52,2023-05-06,COMPLETED
+fa95a248-160f-4219-9472-1f588ce0caa0,Nicholas Silva,murphysusan@example.com,Northeast,Home Goods,Virtual object-oriented array,8,95.69,765.52,2024-04-27,refunded
+1eda8d2d-4a67-407a-97a2-8b73384cb816,Sara Baker,michellemartinez@example.org,Northeast,Apparel,Configurable neutral interface,19,63.66,1209.54,2023-07-14,refunded
+6eacb624-33d8-407e-ac8b-1f57310fb329,Richard Morgan,butlerkyle@example.org,Midwest,Sporting Goods,Future-proofed dynamic groupware,3,147.31,441.93,2023-03-17,refunded
+98810a6c-d265-4303-9087-91282ad425c1,Jacob Craig,amandayork@example.com,Northeast,Office Supplies,Object-based content-based definition,3,185.93,557.79,2024-10-15,COMPLETED
+43067ace-e39c-4a1e-8cbb-67f8f810204b,James Downs,woodbrian@example.net,Northeast,Office Supplies,Total disintermediate encoding,2,149.68,299.36,2024-12-23,Pending
+8d6041ba-f071-46a6-80e6-13f18a32b227,Heather Herrera,tylerthomas@example.com,Midwest,Apparel,Diverse multimedia info-mediaries,15,174.8,2622.0,2024-11-03,COMPLETED
+334f84ed-5b6b-4389-a7b3-11208b04b968,Kyle Thompson,xhays@example.net,Midwest,Home Goods,Universal radical contingency,5,236.32,1181.6,2024-04-05,COMPLETED
+02749f01-6ad3-4e8a-a17a-004ec9f7b87b,Sherry Byrd,terri50@example.org,Northeast,Home Goods,Integrated reciprocal system engine,2,5.05,10.1,2023-05-18,COMPLETED
+72cb6089-c45f-46da-9b2a-90cddbacc1e4,Anthony Ponce,alicia73@example.com,Midwest,Sporting Goods,Fundamental human-resource data-warehouse,4,263.14,1052.56,2024-10-08,pending
+7da1368c-f311-4c58-9da3-e1bf4ab6dfab,Donald Miller DDS,lhood@example.net,Midwest,Home Goods,Optional global project,15,227.6,3414.0,2024-08-05,pending
+b84b4f7e-5a3e-487d-a77e-06d292268f48,Benjamin Nelson,wilsonnicholas@example.com,South,Sporting Goods,Virtual content-based concept,15,275.52,4132.8,2023-03-16,
+e186b605-3b1d-49dd-8935-bf32ec5bfd94,Larry Figueroa,mwilson@example.org,Midwest,Office Supplies,Fundamental executive moderator,,242.99,4373.82,2023-11-18,refunded
+8f84826b-cb64-4151-ac28-55915ff30519,Hector Aguirre,adkinsmichelle@example.org,West,Apparel,Expanded 5thgeneration matrices,10,212.86,2128.6,2024-02-25,completed
+d5ff93ad-fb2e-452c-9bdc-1c1a4dac1761,Anthony Cook,nicholasbrown@example.com,South,Sporting Goods,Monitored tangible hardware,4,139.89,559.56,2024-07-26,Pending
+98f5e398-fbb4-4bdf-b4a4-2ae454c49e9b,Donna Morrison,davischeryl@example.org,Northeast,Office Supplies,Realigned zero-defect toolset,1,53.8,53.8,2024-04-13,
+c69eabab-0f8b-4fb6-b3f7-c4a97f71459f,Allison Johnston,jennifer78@example.net,Midwest,Electronics,Object-based clear-thinking encoding,7,296.3,2074.1,2024-11-28,COMPLETED
+5f8fe2bd-bad4-492b-9a51-236d302734be,Ashley Foster,sarahstephens@example.org,South,Office Supplies,Multi-lateral empowering throughput,3,136.18,408.54,2024-10-19,
+068ba61f-d31f-45f1-b742-b8a615d26b1e,Kenneth Miller DDS,jacqueline72@example.net,West,Sporting Goods,Right-sized regional task-force,8,203.88,1631.04,2023-02-15,
+e45fc0f2-5ab4-4880-b514-1694828d10f0,Patricia Gonzalez,macdonaldmichaela@example.com,South,Sporting Goods,Monitored disintermediate challenge,18,107.69,1938.42,2024-04-24,refunded
+67e6ffd8-261c-4d1d-a189-a63d1d6e3bd7,Adam Gonzalez,xjackson@example.com,West,Home Goods,Synergistic full-range hub,15,121.81,1827.15,2023-07-29,
+d9fbfed6-d98f-4d15-93d7-7f9abf4c2a46,Kelly Smith,roachalexis@example.net,Midwest,Sporting Goods,Self-enabling high-level analyzer,3,263.44,790.32,2023-08-22,
+5d6b09ab-a737-4aa1-ba5c-973d36cc7c63,Kathy Reyes,wgarza@example.net,Northeast,Electronics,Team-oriented transitional utilization,14,205.78,2880.92,2023-01-05,pending
+c130d5d0-2703-4741-bd3e-20fd20a4651f,Lisa Rice,luketucker@example.net,Midwest,Home Goods,Sharable web-enabled pricing structure,13,191.85,2494.05,2024-04-03,Pending
+41ee906d-d306-4cc2-95aa-78d7e874aa60,Michele Norris,kingzachary@example.com,Midwest,Apparel,Grass-roots static knowledgebase,,78.91,78.91,2023-07-12,
+67be8369-dd5b-4b07-b04d-04ae9d7adab7,Sarah Jones,torresaimee@example.org,South,Apparel,Horizontal leadingedge database,2,25.2,50.4,2023-02-25,completed
+48731ca3-ccb9-498f-a78c-14cee26e2323,Jeffrey Williams,monica46@example.org,West,Electronics,Mandatory 5thgeneration access,4,221.8,887.2,2024-02-21,completed
+cfe7a93c-8623-4efd-8eb1-ff3f55c198b0,Louis Mckee,denisewade@example.net,South,Apparel,Future-proofed high-level protocol,9,123.13,1108.17,2024-06-25,
+6a4343d1-7056-4930-8a58-08f0b583aca9,Adam Smith,adkinsjasmin@example.net,South,Office Supplies,Extended logistical standardization,15,238.82,3582.3,2024-12-18,Pending
+3fc72822-95cd-4a52-a2f0-a9995cef931a,Michael Cruz,coreylewis@example.org,South,Office Supplies,Sharable exuding info-mediaries,19,230.74,4384.06,2024-04-23,refunded
+8ed90791-6c9b-4a6d-9460-c69dfa4030e8,Jessica Harrell,gregorybraun@example.net,South,Office Supplies,Organized grid-enabled methodology,14,286.58,4012.12,2024-01-10,pending
+65295c7b-56bd-4c80-9c2b-fce9ae6f72bd,Natasha Harris,kayla93@example.org,Northeast,Sporting Goods,Configurable neutral paradigm,19,258.36,,2024-02-19,refunded
+df386d0a-7e3f-4f72-9eaf-79b924feb185,Adam Davis,vsanchez@example.org,South,Apparel,Operative impactful productivity,2,116.28,232.56,2023-10-20,completed
+582351dc-ddef-47f8-99b3-fb50fabe7b07,Susan Roberts,vwolfe@example.net,Northeast,Apparel,Sharable optimizing conglomeration,1,101.1,101.1,2023-08-26,pending
+6fea9181-5f3b-4266-9352-9d4839be1d1c,Marc Ortega,maciasemily@example.org,Northeast,Electronics,Versatile static system engine,19,257.12,,2023-11-02,
+9e684768-f8ea-449e-881e-b0662fc29448,Derrick Walker,nespinoza@example.net,West,Apparel,Right-sized maximized firmware,11,175.29,1928.19,2023-09-27,COMPLETED
+1b7cba2d-423b-49f0-ab61-f093d9b11803,Ashley Turner,josephholt@example.net,South,Electronics,Networked scalable toolset,6,101.18,607.08,2024-05-30,
+2236a6b8-1bdb-4b6a-9c0b-8eab6d875c78,Robert Madden,pamelaramirez@example.com,Northeast,Electronics,Multi-tiered regional instruction set,17,133.75,2273.75,2023-09-30,refunded
+c93090e5-60dc-4afa-b633-567a7721efb1,Calvin Nguyen,michael92@example.net,West,Office Supplies,Devolved empowering migration,10,298.21,2982.1,2024-03-15,pending
+99b0c0a7-5f76-4df6-8cb3-b079a6e6d250,Jason Nelson,gjohnson@example.com,Northeast,Apparel,Open-source context-sensitive productivity,3,153.21,459.63,2023-01-26,refunded
+4eb34da2-2117-4990-aa45-b083679bac96,Johnathan Farrell,soniavillegas@example.net,South,Sporting Goods,Extended high-level intranet,14,174.85,2447.9,2023-04-09,COMPLETED
+5adc6431-db7f-47a7-949c-f87894d9ddf7,Sabrina Smith,garykramer@example.org,South,Sporting Goods,Realigned empowering secured line,2,294.01,588.02,2023-08-06,pending
+00d34cc4-769e-40e2-9403-7828a47a5e7b,Bryan Jennings,efox@example.com,West,Sporting Goods,Mandatory transitional Internet solution,12,100.88,1210.56,2024-10-01,
+6f1e4320-982d-4ae0-9b1f-ca50933345d2,Timothy Houston,mariowheeler@example.com,Midwest,Electronics,Cross-group coherent model,1,49.37,49.37,2024-02-26,pending
+91b5955d-982e-478a-84ac-d1553336bf3f,Samuel Farmer,whitekathleen@example.org,Northeast,Home Goods,Multi-layered didactic support,6,234.12,1404.72,2024-07-23,pending
+8302a36c-d2ed-4f04-9940-e136e9730103,Jason Glass,allenmary@example.org,South,Apparel,User-friendly secondary array,14,65.58,918.12,2023-11-24,COMPLETED
+2f8442b7-5432-4f61-a6cb-4abeb6fe7022,Dr. William Foster,kmckee@example.com,South,Office Supplies,Cloned real-time system engine,14,238.0,3332.0,2024-08-12,pending
+540f85f1-0c56-46fc-86ef-bcb95f1ea877,Elizabeth Williamson,michael20@example.com,Midwest,Electronics,Ameliorated attitude-oriented circuit,9,22.34,201.06,2023-06-22,
+c2800764-b6ad-4782-91f7-9d490a57f342,Rickey Gonzalez,katrina53@example.net,Northeast,Electronics,Function-based impactful challenge,20,257.77,5155.4,2023-03-12,
+475f1d5c-77b7-4424-b121-1edd961c80cd,Susan Butler,vharris@example.org,Northeast,Electronics,Adaptive 5thgeneration architecture,2,132.04,264.08,2023-06-08,Pending
+684096ce-d563-4514-9c85-e28df98c52c1,Valerie Atkins,diana92@example.org,Northeast,Home Goods,Profit-focused fresh-thinking functionalities,20,201.88,4037.6,2023-11-25,pending
+4e338d57-4d1a-41ae-a03b-211faddd381c,Amanda Barton,zfrazier@example.org,Northeast,Office Supplies,Versatile foreground core,9,173.38,1560.42,2024-03-03,pending
+49a83520-c341-417e-b58d-544920649efe,Kimberly Miller,smithstephanie@example.org,Northeast,Apparel,Function-based non-volatile customer loyalty,18,79.7,1434.6,2023-07-12,completed
+b65fb61a-6f30-4bd4-bfe7-9c4611f05a92,Erin Medina,abarr@example.com,Midwest,Electronics,Grass-roots multi-tasking strategy,15,54.57,818.55,2024-09-26,pending
+f1eea0ee-f974-433b-a357-7c7792498eea,Angela Bender PhD,newmanamanda@example.org,Midwest,Home Goods,Automated background flexibility,10,51.57,515.7,2024-02-08,refunded
+8584013c-68ef-4c59-9044-e524568a0e5c,Brian Collins,jeffrey64@example.com,West,Electronics,Pre-emptive impactful workforce,15,226.77,3401.55,2023-08-24,pending
+a41ef443-68dd-4277-bf04-b9a7e5267c33,Mary Jones,victormiller@example.net,South,Sporting Goods,Switchable next generation ability,20,266.14,5322.8,2024-09-17,COMPLETED
+5146e557-dd0d-458f-9d6b-c22c63a0ee44,Stephanie Robinson,barajascharles@example.org,Northeast,Office Supplies,Implemented systemic software,9,79.99,719.91,2024-04-08,Pending
+ccc3d918-dfd2-423e-8bfe-eff3a5e1aa25,Craig Mitchell,ydean@example.com,West,Apparel,Cloned holistic throughput,7,56.93,398.51,2024-04-30,Pending
+dc1908f0-f9a2-4a7e-a3fd-ad0cb83a8eac,Allen Morgan,devinbass@example.com,West,Sporting Goods,Enhanced secondary service-desk,17,126.1,2143.7,2024-10-25,completed
+22330eba-9855-442b-bae5-90cacfe10966,Jeffery Estrada,jmoore@example.com,West,Electronics,Profit-focused didactic installation,15,103.79,1556.85,2023-10-18,COMPLETED
+7849c41c-a8f7-4073-b0de-68074d287b5f,Rebecca Sharp,gbutler@example.org,South,Home Goods,Object-based local application,11,17.99,197.89,2023-12-09,Pending
+33d6125e-c179-4201-a474-c4e2f44ce19c,Kyle Casey,tabithaowens@example.com,Northeast,Office Supplies,Multi-lateral high-level extranet,,80.27,1364.59,2023-07-28,completed
+75224f24-86a5-4a04-8955-ac95040cdc07,Sara Wilson,miguel92@example.com,West,Apparel,Team-oriented zero tolerance circuit,18,159.35,2868.3,2024-11-25,COMPLETED
+6d0fb4aa-581b-4d6d-9337-725acf655a8d,Daniel Hayes,martinlaura@example.com,South,Apparel,Devolved non-volatile emulation,7,-46.57,325.99,2023-03-31,completed
+0b1a8b83-dc9b-4a2c-a815-dbc03b388d39,Erika Schultz,mcgeeashley@example.net,West,Apparel,Managed leadingedge application,19,28.65,544.35,2024-12-24,Pending
+c79dca57-dc92-451d-91fa-f322ba2a0b8d,David Bass,daisy49@example.org,West,Sporting Goods,Future-proofed transitional parallelism,17,171.8,2920.6,2024-09-29,
+011e72ce-55d1-4fa7-8a23-514fc278fd4f,Sarah Brown,nellis@example.net,Northeast,Apparel,Business-focused uniform open architecture,1,186.95,186.95,2023-03-13,completed
+7af8a56a-5896-4773-bb7c-2483651236b1,Cody Jones,rosalesbenjamin@example.org,Midwest,Apparel,Quality-focused demand-driven collaboration,17,261.64,4447.88,2024-02-15,
+7b3c9292-559f-4935-97ea-95a0cf36ad6a,Deborah Sawyer,millervalerie@example.net,West,Electronics,Customizable system-worthy flexibility,5,77.73,388.65,2024-07-07,Pending
+9bc9c4ec-5651-4666-bcc8-658e7b3efea4,Sean Martinez,derek34@example.com,West,Office Supplies,Open-source optimal capacity,,93.75,843.75,2024-03-13,COMPLETED
+3bf370f9-e1f3-4a9b-8149-1bcc5368429c,Jessica Coleman,cheyenneparker@example.net,West,Sporting Goods,Enterprise-wide scalable collaboration,1,223.31,223.31,2023-12-05,refunded
+0ed7cac5-dba8-4a63-af7e-31f3d631c23d,Larry Ortiz,crystallopez@example.com,Midwest,Home Goods,Up-sized zero administration hub,14,61.74,864.36,2023-09-12,completed
+ca66d026-253b-438d-8fa6-95afb855c52c,David Pennington,robert68@example.com,Midwest,Office Supplies,Face-to-face bottom-line product,,5.27,89.59,2023-08-12,refunded
+eecbfb68-bb39-4d36-838e-9606602677e5,Mrs. Kathy Robinson DVM,sheppardanthony@example.org,South,Office Supplies,Optimized system-worthy installation,1,112.01,112.01,2023-11-05,pending
+50ab4291-07ce-46a2-a6d6-cbb6fabca51a,William Boyer,santanakimberly@example.net,South,Home Goods,Pre-emptive next generation matrix,17,154.53,2627.01,2023-08-25,refunded
+51e3b135-46de-46b0-ba99-08ed1594a6df,Michael Barry,andrew43@example.com,Northeast,Electronics,Future-proofed multi-tasking customer loyalty,2,198.29,,2024-03-14,
+7dc3ea1d-aa19-4ef9-9d04-37860f9946d8,Jared Davis,modonnell@example.net,South,Office Supplies,Horizontal responsive strategy,4,272.03,1088.12,2023-07-09,completed
+540e6b04-d5e7-4690-8d3a-d770e2426548,Rachel Rivera,thill@example.net,South,Electronics,Reduced hybrid benchmark,1,141.18,141.18,2023-01-15,pending
+f8e558de-5888-4938-855f-98276166ed97,Yesenia Hernandez,jacksonstephanie@example.net,West,Home Goods,Sharable scalable task-force,18,234.55,4221.9,2023-11-27,Pending
+7616261a-a6b3-445a-bdcc-78e937486e9d,Jennifer Henderson,taylorjulie@example.com,Midwest,Sporting Goods,Reduced systematic installation,6,231.05,1386.3,2024-01-11,refunded
+c6e4fc0e-1719-48d0-b16a-9adb8ebd230c,Joseph Carroll,amiller@example.net,Midwest,Apparel,Grass-roots grid-enabled hardware,20,99.02,1980.4,2023-06-19,
+9e29ebc8-27cd-4855-a798-16978dc8dba2,James Robertson,michael61@example.org,West,Apparel,Self-enabling zero administration pricing structure,4,89.52,358.08,2024-08-29,COMPLETED
+b6983a78-ff02-4ef0-99bd-16b5becb1dd0,Laurie Myers,jessica52@example.net,South,Apparel,Front-line coherent firmware,18,135.68,2442.24,2024-03-23,pending
+2edeaf95-440a-4b42-867b-95441cb4bd73,Matthew Zamora,taylorperez@example.net,Midwest,Apparel,Versatile clear-thinking paradigm,1,12.23,12.23,2023-02-19,
+e1a62022-4875-48da-a109-97376684979b,Christopher Newton,fjohnson@example.com,Midwest,Electronics,Fully-configurable next generation Local Area Network,11,165.11,,2024-11-29,COMPLETED
+399ac6cf-c309-481f-95fd-85265e42ba79,Shirley Brown,andersonkristi@example.com,South,Apparel,Proactive next generation system engine,13,34.83,452.79,2024-06-02,pending
+1325288e-5bd9-452e-92c0-ee2817fd2ee2,Jennifer Morales,abigailjackson@example.org,West,Office Supplies,Seamless responsive function,20,294.28,5885.6,2024-11-02,refunded
+77b828b1-932e-4207-854d-1174f0369415,Scott Ramirez,myersstephanie@example.org,Northeast,Home Goods,De-engineered clear-thinking complexity,16,216.2,3459.2,2023-09-14,
+8b71ed34-ac87-4e85-b759-a9da36c1d96b,Yolanda Martin,mjackson@example.com,Midwest,Apparel,Team-oriented human-resource application,1,96.34,96.34,2023-02-02,Pending
+0b0cde5a-463b-487a-b04d-fde29c780f9d,Brittany Wheeler,uhunt@example.com,Midwest,Electronics,Streamlined actuating benchmark,1,170.21,,2024-05-14,COMPLETED
+0eb9d2f9-8faf-4411-a5a1-af1690b8bc52,Anthony Weeks,frenchmarvin@example.net,Midwest,Sporting Goods,Distributed clear-thinking hub,3,244.69,734.07,2024-07-17,COMPLETED
+6eaf1943-1e6a-4102-8f39-3c2faa972596,Kyle Mcneil,erichouston@example.com,Northeast,Home Goods,Multi-tiered client-driven ability,11,108.68,1195.48,2024-07-27,Pending
+61f47031-74f6-4c2d-ad25-ccecfb8515aa,Amanda Peterson,bhunt@example.org,West,Home Goods,Open-architected cohesive help-desk,14,119.71,1675.94,2023-03-03,Pending
+6afbb836-b031-44c4-82ff-61586576d2bf,Jose Peterson,patriciabrown@example.net,West,Sporting Goods,Quality-focused object-oriented info-mediaries,18,155.55,2799.9,2023-10-25,Pending
+fdffae1a-3b1b-450f-95f1-91b474540254,Connie Parker,fjohnson@example.net,Midwest,Office Supplies,Seamless systematic help-desk,7,166.63,1166.41,2024-10-21,
+a129a168-6957-4dc5-b856-294302a9deb1,Michelle Costa,candice22@example.org,South,Office Supplies,Grass-roots logistical implementation,4,285.42,1141.68,2023-08-11,completed
+094e480f-a753-44b1-a535-82cbb625c680,Jermaine Coleman,thomas24@example.com,Northeast,Sporting Goods,Quality-focused cohesive ability,20,75.4,1508.0,2024-12-18,COMPLETED
+a43fa07c-2fea-4966-96b7-0533c2f873c3,James Howard,lkennedy@example.com,South,Sporting Goods,Proactive tertiary hierarchy,19,111.74,2123.06,2024-03-06,COMPLETED
+5ab7d2ca-f996-41dc-b94d-8e75cbc53116,Connor Arnold,hughesbruce@example.org,Midwest,Sporting Goods,Up-sized bi-directional concept,11,10.44,114.84,2023-08-06,
+a8127178-8116-40fb-8dc9-f54451c28b64,Larry Ramos,angelalee@example.com,Midwest,Sporting Goods,Triple-buffered client-driven emulation,5,117.5,587.5,2023-11-20,completed
+411d6b23-be74-4cd6-8844-fad3ab273919,Anthony James,rebeccarush@example.com,West,Apparel,Inverse composite infrastructure,14,241.98,3387.72,2023-07-12,refunded
+49518bef-4934-44c4-8f12-9de40a5328b9,Christopher Rice,mlee@example.org,West,Sporting Goods,Phased client-driven neural-net,5,228.8,1144.0,2023-07-03,
+7f14f32c-aa7b-4f11-80da-92defdf4c007,Patricia Gutierrez,stanley89@example.org,Midwest,Office Supplies,Balanced context-sensitive Internet solution,,25.76,128.8,2023-02-05,refunded
+85996a74-e20b-4fed-91e8-e05fe8dacc17,Lauren Burns,rushhannah@example.org,Northeast,Office Supplies,Synergized tangible middleware,13,288.3,3747.9,2023-08-19,
+7d6cde43-e0be-454d-a143-9c73d1392e83,Jordan Calhoun,samuel95@example.org,Midwest,Home Goods,Versatile multi-state middleware,15,82.1,1231.5,2023-01-02,COMPLETED
+76049879-4b60-43c8-878d-8fa444390db1,Amber Valenzuela DDS,samanthareese@example.org,Midwest,Apparel,Versatile next generation projection,8,8.79,70.32,2023-04-12,pending
+7d5bb960-e902-4866-a5a5-a3c283d343c2,Joanna Martinez,dwolfe@example.com,South,Home Goods,Re-engineered cohesive definition,6,266.36,1598.16,2024-02-22,Pending
+636364b4-4a74-45d6-8aa2-599ecf6a27f5,Tanya Valdez,stephaniemathews@example.com,West,Sporting Goods,Configurable heuristic productivity,18,298.59,5374.62,2023-04-22,completed
+23834c15-f29b-4ed0-a4bf-0c68dff5c0a2,Victoria George,nicolehaynes@example.com,Northeast,Home Goods,Ameliorated zero administration secured line,12,279.2,3350.4,2024-04-18,
+334e3706-183d-4288-9078-d90f7b590493,Melissa Williams,murphykathleen@example.com,West,Apparel,Up-sized reciprocal artificial intelligence,17,14.16,240.72,2024-07-22,COMPLETED
+e404029b-3910-4186-9503-c1b1a0f6494d,Stephen Henson,elizabeth31@example.net,South,Office Supplies,Reactive interactive hardware,20,144.11,2882.2,2024-06-17,pending
+22397ee6-3a80-4946-ae17-78e718fa70b8,Joseph Sexton,debbiemoore@example.net,South,Office Supplies,Cross-group national support,14,189.23,,2024-10-04,refunded
+c20f58b9-faca-4f12-956c-7e5022cce259,Amy Cox,hphelps@example.net,West,Sporting Goods,Networked bifurcated policy,6,242.56,1455.36,2024-08-16,COMPLETED
+4c9e90e6-6e37-483c-90bf-3a8972ba67f9,Teresa Cooley,benjaminstewart@example.org,South,Sporting Goods,Streamlined static process improvement,2,139.34,278.68,2023-12-31,
+155e10b2-caee-4d04-bc3a-60f4f0146c6d,Kelly Mcdaniel,underwoodrobin@example.net,Northeast,Office Supplies,De-engineered homogeneous secured line,3,121.23,363.69,2023-10-02,Pending
+885e8bd0-66fa-4710-ace3-63d9ce18c35d,John Munoz,charlesbrown@example.net,Midwest,Office Supplies,Cross-platform tangible infrastructure,1,49.93,49.93,2024-02-19,pending
+dfac28bc-6ab4-439f-a390-79837224913a,Christopher Smith,sierrabarron@example.org,West,Apparel,Multi-tiered logistical orchestration,20,14.39,287.8,2024-11-12,refunded
+ffd547ed-13e8-41c7-9bc5-c9ef05ad746a,Chase Green,robert74@example.org,South,Sporting Goods,Digitized attitude-oriented focus group,19,175.07,,2024-05-02,
+bd6e1190-bc4d-4112-b365-b2f148a177ce,Richard Combs,suttonjulie@example.net,West,Office Supplies,Fundamental discrete utilization,8,245.85,1966.8,2024-08-01,Pending
+a6f3cf88-96a1-4f49-9525-b2fea4eab2d0,Daniel Davis,henrychristopher@example.org,Northeast,Sporting Goods,Virtual content-based attitude,13,18.68,242.84,2023-06-28,completed
+3c9444bd-3062-4881-b7d7-e83ae1b07c8e,Carol Anderson,burtonbryan@example.org,Northeast,Apparel,Optional bifurcated capability,7,262.47,1837.29,2024-02-25,pending
+1599d5a5-2b99-40d4-9755-7110268a81fe,Joann Collins,tammywilliams@example.net,Midwest,Home Goods,Realigned coherent knowledgebase,1,47.6,47.6,2023-11-12,completed
+18f0b7af-fea1-4ca5-b398-1ea329a87ad3,Joseph Carpenter,william58@example.net,West,Sporting Goods,Multi-channeled exuding workforce,12,18.1,217.2,2024-03-31,Pending
+9015905b-bcdb-42ec-a782-bad37c713174,Hannah Garcia,jamie74@example.net,Midwest,Sporting Goods,Networked system-worthy functionalities,9,143.5,1291.5,2024-07-23,COMPLETED
+f893ed84-02cc-4e9d-8393-30f6c97e4bfa,Sara Miranda,marquezmichael@example.org,South,Electronics,Robust coherent application,13,70.9,921.7,2023-12-06,Pending
+2986750f-e5d6-4d34-b71c-4625fc92c9e5,Nathaniel Lewis,laurarose@example.org,West,Home Goods,Progressive neutral standardization,18,281.71,5070.78,2023-05-28,COMPLETED
+ac77e882-1cff-45e1-b6d6-c18c9d10b492,David Lawson,jason90@example.com,Northeast,Electronics,Business-focused intermediate info-mediaries,18,219.1,3943.8,2023-11-14,pending
+892a7720-fe7e-4b1f-8ca6-4392d79a6e7b,Sally Berry,nmckenzie@example.com,South,Electronics,Fully-configurable non-volatile flexibility,13,130.75,1699.75,2023-06-24,
+a0762b8b-4df3-40da-a7b4-10606d1a4c16,Angela Johnson,jim76@example.com,Midwest,Office Supplies,Reduced asymmetric challenge,9,74.94,674.46,2023-07-08,completed
+0c55a1a7-749b-4ca1-be1f-37ab9c99c194,Nancy Collier,andrealawrence@example.org,Northeast,Office Supplies,Re-contextualized 5thgeneration attitude,17,196.09,3333.53,2023-04-23,COMPLETED
+1bc28348-fda4-498d-9360-f00d98c59f50,Danny Richardson,zwilliams@example.org,West,Office Supplies,Multi-tiered local Graphical User Interface,19,89.58,,2024-08-16,pending
+48af19de-7bb5-4bb1-9981-9b7b4badd4a4,Anita Wilson,robertsanchez@example.net,Midwest,Apparel,Re-engineered user-facing workforce,15,107.15,1607.25,2024-09-18,COMPLETED
+ecc30a37-c1e6-4674-bcb8-91becb921e4e,Jonathan White,kenneth35@example.org,West,Office Supplies,Front-line didactic monitoring,2,83.66,167.32,2023-05-22,completed
+fc9aa74d-0bfe-4fc7-a4c0-e1872dfb3631,Karen Conley,rwalsh@example.com,Northeast,Electronics,Innovative methodical budgetary management,3,134.85,404.55,2024-01-02,refunded
+642f9768-eb39-4beb-888a-1f0eb740ed99,Amanda Frank,murphyhannah@example.org,Midwest,Home Goods,Universal maximized data-warehouse,13,238.81,3104.53,2023-03-08,refunded
+d363cd0b-f80d-4288-bdca-2799ffb1a787,Stefanie Hughes,fwilliams@example.org,Midwest,Office Supplies,Future-proofed user-facing secured line,1,188.84,188.84,2024-11-17,Pending
+35a24d37-1134-4c63-a40c-4a3e2f591909,Francisco Wilson,teresa88@example.com,South,Office Supplies,Upgradable content-based moderator,2,125.35,250.7,2023-05-25,refunded
+3ec3f10c-c1d5-41fd-a317-f80d217f4fc4,Carol Franklin,tiffany65@example.com,West,Sporting Goods,Digitized web-enabled circuit,6,114.0,,2023-01-26,pending
+dfad2883-2cf1-4461-af2c-4f06affa1c23,Tamara Cantu,kennethnavarro@example.org,South,Home Goods,Persevering systemic solution,13,123.48,1605.24,2024-02-11,Pending
+31b26965-2b6a-4895-a0a5-716642103da9,Mark Long,bradleydean@example.com,Northeast,Apparel,Intuitive upward-trending parallelism,4,118.14,472.56,2024-03-03,pending
+db0a85f9-3cf4-4bd0-a710-d1d963cb188e,Andrew Brown MD,nathan45@example.com,South,Office Supplies,Profound asymmetric data-warehouse,3,223.08,669.24,2024-05-26,refunded
+ef460ed3-44ba-484b-8454-dcfa79fee704,Kevin House,rosalesjonathan@example.org,West,Office Supplies,Distributed bi-directional moratorium,10,50.39,503.9,2024-08-23,refunded
+efe6cbc4-500c-4c15-8be3-7f1bbd764e35,Gregory Smith,leeandrea@example.org,South,Sporting Goods,Pre-emptive 24hour contingency,10,153.2,1532.0,2024-04-15,refunded
+9ef99fcb-b9f0-42b8-822b-5c4ff68bca25,Rodney Jenkins,pwoodard@example.com,South,Office Supplies,Synergistic full-range extranet,2,140.76,281.52,2023-06-23,
+b9e82eae-ead9-4dad-b80a-7db39a9efc9f,William Johnson,trujillochad@example.net,South,Home Goods,Fundamental non-volatile customer loyalty,7,240.88,1686.16,2023-08-29,pending
+f1a96739-7d40-46e5-b234-7cce9de2c7f5,Michaela Sullivan,stricklandallison@example.com,Midwest,Sporting Goods,Devolved local knowledgebase,6,211.53,,2024-05-30,
+68e9b3cd-a937-4182-b849-36188b9ad4cb,Luke Gentry,michelleedwards@example.com,Midwest,Electronics,Persistent stable pricing structure,4,193.53,774.12,2024-09-23,completed
+cf81f3c6-b885-419b-9408-1d05a5b4dd6b,Cheryl Hall,ohall@example.net,West,Sporting Goods,Implemented empowering artificial intelligence,7,92.84,649.88,2023-02-15,Pending
+cd1ce35d-c14c-4fc5-aad2-45216efd0239,Peter Stein,gsmith@example.org,Northeast,Office Supplies,Re-contextualized reciprocal benchmark,6,167.96,1007.76,2023-08-09,COMPLETED
+7d66e0bf-cdd5-4436-8dcb-77694fc8900a,Lori Gonzalez,rebeccabrewer@example.net,Midwest,Sporting Goods,Extended user-facing support,4,171.84,,2023-05-18,Pending
+dbdc2bf0-ab3b-4867-a359-1b6fe984620d,Christopher Mitchell,caroline67@example.com,Midwest,Electronics,Reactive secondary task-force,1,37.31,37.31,2023-12-03,refunded
+416e0254-cf93-4828-8401-7b789b8c0832,Rhonda Goodman,richardsonjoshua@example.com,West,Sporting Goods,Decentralized 5thgeneration forecast,5,209.61,1048.05,2024-01-18,
+20e5d2a7-c355-44fa-927f-f13a7a5910c2,Julie Johnson,atkinsontracey@example.org,West,Apparel,Total background attitude,13,244.13,3173.69,2023-09-16,COMPLETED
+08940f9d-0042-4c59-9a39-25d4f460f8c5,Kenneth Kim,woodelizabeth@example.net,Northeast,Apparel,Assimilated tangible info-mediaries,2,89.28,178.56,2024-07-09,
+5f8732e4-fd5d-4206-b909-a98c7cc219a0,Christine Burke,hawkinssierra@example.net,West,Apparel,Streamlined analyzing toolset,12,246.8,2961.6,2023-05-29,COMPLETED
+b3681c59-42b4-497f-a9d6-69080254803a,Sally Nichols,gthompson@example.net,West,Office Supplies,Optimized uniform challenge,9,177.77,1599.93,2024-05-29,refunded
+06eec6d5-e377-4eb9-af4c-c55fc8b7628c,Gabrielle Patel,erinlane@example.net,Midwest,Home Goods,Triple-buffered next generation archive,4,45.61,182.44,2023-01-04,completed
+ba00889b-2c66-4ef6-b104-b98c3733ba3f,Ryan Peters,kimadam@example.net,Northeast,Apparel,Digitized even-keeled intranet,11,131.96,1451.56,2023-11-30,refunded
+29b95257-eacf-4367-a6a2-2ae413cb814f,Joseph Patterson,benjaminburton@example.org,West,Office Supplies,Customer-focused background matrix,2,11.16,22.32,2024-10-30,
+b3cfd04b-7d62-4df3-9be0-d6e2acc021c7,Corey Stephens,mannmelissa@example.com,South,Electronics,Inverse fresh-thinking productivity,,223.45,3351.75,2024-03-01,Pending
+2b826c04-d448-4324-9632-c84a4b064c11,Morgan Little,dmorris@example.org,Midwest,Apparel,Organized secondary circuit,13,255.47,3321.11,2024-03-02,completed
+b62a65b8-d222-4ba7-ab4e-7972e1108ddc,Michael Peterson,hollandkristin@example.net,Northeast,Home Goods,Programmable user-facing process improvement,20,70.11,1402.2,2024-09-10,refunded
+ca690077-38f9-45a7-b3ff-c5e37b5fd163,Antonio Barrett,terri27@example.com,Northeast,Office Supplies,Optimized asymmetric leverage,7,138.76,971.32,2023-06-16,pending
+e02b6c81-762d-4397-8ae6-4818f17639aa,Kathy Nichols,lhebert@example.com,Northeast,Office Supplies,Optimized user-facing concept,14,106.28,1487.92,2024-07-27,Pending
+f960b68a-8a68-431f-a2e8-9d031248ef80,Kenneth Durham,csimpson@example.com,Northeast,Office Supplies,Cross-group contextually-based alliance,18,299.43,5389.74,2023-12-02,COMPLETED
+4953711c-89bf-4963-8b93-6b789771896c,Alicia Davis,erik79@example.org,West,Electronics,Compatible maximized hub,12,233.11,2797.32,2024-04-05,Pending
+95320b09-3720-4c11-9cbb-d054b55c8ae3,Andrew Holland,carol65@example.org,Northeast,Office Supplies,Exclusive tertiary analyzer,9,53.16,478.44,2023-09-05,pending
+ed05a8f4-8c53-4b9c-af07-6821bd4ef5ab,Paul Patel,ulong@example.com,West,Sporting Goods,Persistent background moderator,10,252.52,2525.2,2023-12-28,completed
+bbf0c297-42a3-40e7-b6c6-80d311e368cd,Chad Reynolds,michael54@example.org,West,Home Goods,Exclusive 4thgeneration service-desk,3,199.72,599.16,2023-05-15,
+1b7574a6-24d9-4333-9948-ee853a7fa016,Ebony Mullins,qpoole@example.net,Midwest,Apparel,Synchronized dynamic interface,19,64.4,,2023-08-05,Pending
+1626ef6a-87f4-441c-944c-95444f6a78a7,Lori Rogers,gwest@example.com,West,Office Supplies,Enhanced zero-defect intranet,10,59.97,599.7,2024-01-31,refunded
+897516c1-b0a6-445f-85c1-d07ad0310e79,Ashley Gibson,moorepeter@example.net,South,Home Goods,Function-based user-facing hardware,16,23.46,375.36,2024-07-27,completed
+217d1b12-9fe5-4e73-b1dd-c7b9c920299e,Melissa Miller,mcconnellrachel@example.org,Midwest,Home Goods,Switchable context-sensitive time-frame,14,46.16,646.24,2024-03-13,completed
+d4eec7cb-7ad9-447f-978a-076e6057bcf2,Nicole Sellers,barbara77@example.org,West,Sporting Goods,Intuitive zero-defect capability,6,35.17,211.02,2023-10-20,refunded
+24064c07-a07a-4d7f-bf3c-2d1b8d58337f,Lisa Douglas,chris21@example.net,West,Home Goods,Versatile systematic groupware,19,167.74,3187.06,2024-08-09,Pending
+109f28ba-620f-4282-9c3f-1083c1265f06,Ryan Yang,omitchell@example.net,West,Electronics,Stand-alone incremental benchmark,11,141.93,1561.23,2024-03-10,pending
+83fde5e6-778a-464d-8d5d-a4db1dee90a3,Joe Rivas,progers@example.com,Northeast,Office Supplies,Distributed static parallelism,4,272.78,1091.12,2024-02-22,completed
+3dc980b9-23ef-4f6f-86ea-718163a17aba,Kelli Wilson,lholloway@example.org,West,Electronics,Streamlined actuating monitoring,5,191.0,955.0,2023-11-16,Pending
+d4ae6f50-1a0e-471a-ba9f-5ff3b7a66066,Emily Hernandez,garrettadams@example.org,Northeast,Home Goods,Managed background concept,1,113.22,113.22,2024-05-26,
+75ef4c13-a413-4f19-9ec1-d3e1a00b9b39,Stacy Carter,justin82@example.net,West,Electronics,Exclusive demand-driven collaboration,11,256.94,2826.34,2023-04-05,Pending
+736a7674-339f-469d-b6cf-be272131ee8d,Stephanie White,daniellee@example.net,Midwest,Sporting Goods,Front-line context-sensitive leverage,1,64.7,64.7,2023-09-15,COMPLETED
+24c7d049-61ed-4afc-ac75-59224f76131d,Edward Carlson,kim53@example.net,Northeast,Apparel,Front-line static complexity,20,234.2,4684.0,2023-10-24,refunded
+8918aad4-24d4-4a8f-ae64-bdd516117353,Lisa Harris,lisatodd@example.org,South,Office Supplies,Polarized empowering analyzer,19,185.39,3522.41,2024-03-11,completed
+092347c4-ba19-413b-a0ac-b3095b92edd9,Pamela Stein,tracygraham@example.com,South,Apparel,Organized demand-driven array,17,224.61,3818.37,2024-03-29,
+7c07b418-2a94-422c-82aa-737a109d8156,Charles Rodriguez,lindseysanchez@example.com,Northeast,Sporting Goods,Proactive mission-critical productivity,8,228.27,1826.16,2024-06-15,
+f0d4e715-56df-4bc8-b054-ad2456302e34,Gary Doyle,jeffreydavis@example.org,South,Home Goods,User-centric multi-tasking process improvement,7,69.85,488.95,2024-03-22,completed
+510c4fdc-b15a-4a66-b716-30b153456a10,Aimee Ruiz,diane83@example.net,South,Apparel,Horizontal bottom-line matrix,11,218.02,2398.22,2023-06-03,Pending
+b87d8830-540e-4f10-a8a8-5fbf40865b3f,Denise Porter,uthompson@example.net,Midwest,Office Supplies,Object-based secondary installation,14,242.17,3390.38,2024-08-12,
+922300bf-1b7c-4ada-9626-6f65c958550b,Stephen Carter,vwilliams@example.net,South,Office Supplies,Cloned zero tolerance database,13,131.03,1703.39,2024-11-14,
+e8ce4543-9d74-4c98-8914-ce7854402b01,Michele Leblanc,cohenanna@example.com,Midwest,Office Supplies,Universal didactic Local Area Network,15,49.79,746.85,2024-01-30,completed
+afb813c9-738d-4709-bb01-af18a3f45b85,Mary Nielsen,christopher43@example.com,West,Sporting Goods,Proactive attitude-oriented methodology,1,32.67,32.67,2024-09-08,
+b91ca866-76bf-46ab-9af6-082dcb639a70,Philip Ross,juliameyers@example.com,Northeast,Apparel,Integrated solution-oriented data-warehouse,8,7.37,58.96,2023-10-07,completed
+1d33a2e9-ad8f-4ae9-abad-f98b1f368a2d,Rita Bauer,mary69@example.org,South,Office Supplies,Advanced coherent help-desk,11,218.83,2407.13,2023-07-25,refunded
+01f24c6f-e150-4a6e-8587-bd68fb17f7d6,Nicholas Rivera,kscott@example.org,West,Home Goods,Implemented human-resource analyzer,13,209.97,2729.61,2024-07-29,refunded
+658c0007-f0f0-4773-bdd1-150590a7f5f2,Ronald Bernard,kevin35@example.org,South,Apparel,Public-key multi-tasking complexity,19,243.62,4628.78,2023-05-12,COMPLETED
+e31ccab4-b07e-4fa8-8b0c-792e669b32a2,Stacy Scott,stephanie83@example.org,Northeast,Apparel,Mandatory uniform solution,8,73.76,590.08,2024-12-28,refunded
+fbf45611-8bf3-4002-ae44-d91b01fedb83,Kaitlin Peterson,jamescarrillo@example.net,South,Home Goods,Upgradable cohesive standardization,,197.4,394.8,2024-01-09,refunded
+c877505e-709c-479b-a0f5-0b8269db7b20,Ryan Perez,joshua89@example.org,West,Electronics,Virtual high-level Graphical User Interface,2,13.22,26.44,2023-05-03,
+71f18937-3d20-410b-be89-95af1fa34248,Michael Sims,cobbjeremy@example.net,Northeast,Office Supplies,Cross-platform system-worthy system engine,6,41.21,247.26,2024-12-24,COMPLETED
+ee2e16bb-0e54-4c5c-8f4b-8d0e1047c68d,Christopher Smith,catherine63@example.com,West,Office Supplies,Versatile context-sensitive workforce,10,293.79,2937.9,2024-10-13,COMPLETED
+fca7b47d-5654-4058-89f8-595a6bf1d369,Michael Watson,scottrobert@example.com,Midwest,Apparel,Integrated clear-thinking hardware,10,36.05,360.5,2023-12-07,Pending
+f2660669-909f-4040-acc6-42fc7c881024,Monica Jones,ramirezkatrina@example.com,West,Electronics,Optional reciprocal hub,20,265.85,5317.0,2024-12-04,COMPLETED
+898d60e6-cb60-4891-afcc-ca243c2e24c4,Sandra Kim,stevenholmes@example.net,Northeast,Electronics,Public-key regional projection,17,18.43,313.31,2023-12-17,refunded
+50dcbe98-de3c-4b47-ac2a-aa64f8685c80,Ms. Melissa Long,grocha@example.org,Midwest,Home Goods,Programmable web-enabled algorithm,13,270.22,3512.86,2023-12-10,completed
+17cea942-fabf-4eeb-830a-8503cfeea7db,Rodney Patterson,michael82@example.net,Midwest,Sporting Goods,Ergonomic upward-trending middleware,5,139.71,698.55,2024-02-13,COMPLETED
+4471a631-804b-412a-b764-1e9d213924b9,Lindsay Pierce,charlesfoster@example.org,Northeast,Office Supplies,Versatile multimedia neural-net,4,20.44,81.76,2023-12-13,Pending
+8b14d0da-094f-4d45-ae43-5be7f58f4244,Stacy Vincent,jamiemendez@example.com,Midwest,Apparel,Down-sized incremental paradigm,6,90.03,540.18,2024-01-03,COMPLETED
+15d9b27b-a52c-47dd-b652-ffeb20533974,Lauren Ellis,hreynolds@example.net,Midwest,Electronics,Ergonomic 24/7 leverage,18,216.81,3902.58,2023-04-03,refunded
+a50306fd-d014-4118-8939-b14f6d3371a3,Melanie Kim,fmason@example.org,Northeast,Sporting Goods,Intuitive intangible pricing structure,15,171.14,2567.1,2024-03-06,refunded
+eb030b41-ada0-460b-9386-4e30eb32873b,Diane Day,waltercollins@example.com,Northeast,Home Goods,Proactive context-sensitive encryption,2,38.59,77.18,2023-12-22,COMPLETED
+6bf14aec-13fb-4972-8354-9ad6573c2fcc,Timothy Kelly,kathleen68@example.net,Northeast,Home Goods,Adaptive maximized complexity,15,143.51,2152.65,2023-03-30,COMPLETED
+76f8fa82-120d-466e-8b98-35f7078684e5,Gabriela Dickerson,ybright@example.org,West,Electronics,Future-proofed disintermediate protocol,10,272.25,2722.5,2024-04-26,pending
+725298ea-4129-4146-8dda-64fb486e4272,Wendy Mercer,smallronald@example.net,Northeast,Home Goods,Open-source system-worthy database,1,222.33,222.33,2024-12-19,
+e9f97eb5-7cf5-45a6-8446-5dc7a4de63a3,Dr. Terry Wells DDS,bbell@example.org,Northeast,Home Goods,Realigned demand-driven intranet,14,203.44,2848.16,2024-05-27,COMPLETED
+f5537956-c238-4ed1-bb4a-4ce935bc245c,Tonya Benson,tsandoval@example.org,West,Sporting Goods,Stand-alone explicit frame,20,51.02,1020.4,2023-08-05,Pending
+e9fde793-9e71-42b9-8e42-c2335e49b9c0,Joyce Mayo,jaclyn03@example.org,South,Sporting Goods,Quality-focused 24/7 utilization,2,199.54,399.08,2023-07-08,pending
+97f3b7e3-ae0d-406e-bef1-f41d224d6054,Aaron Murphy,tonibriggs@example.net,West,Home Goods,Customer-focused asynchronous flexibility,12,159.99,1919.88,2023-09-17,refunded
+6bf301bd-982e-4ea2-a7d0-011d610a7564,Anna Sanchez,benderjanice@example.com,South,Electronics,Balanced multi-tasking customer loyalty,4,287.18,1148.72,2024-07-21,
+e671be91-5084-478f-979c-2f0e7518856c,Kenneth Lopez,katherinemurphy@example.org,South,Office Supplies,Business-focused reciprocal Internet solution,3,289.25,867.75,2023-06-22,refunded
+1b2cc44a-1196-445c-885d-4ff3cac830ff,Michael Mendoza,manuelpearson@example.net,Midwest,Home Goods,Advanced analyzing frame,20,171.27,3425.4,2024-04-24,completed
