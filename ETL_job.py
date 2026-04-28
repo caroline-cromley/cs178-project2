@@ -5,8 +5,8 @@ from pyspark.context import SparkContext
 from pyspark.sql import functions as F
 
 # --- config: update these before running ---
-S3_INPUT_PATH  = "s3://your-raw-bucket/raw/"
-S3_OUTPUT_PATH = "s3://your-processed-bucket/processed/"
+S3_INPUT_PATH  = "s3://project2rawbucket/raw/"
+S3_OUTPUT_PATH = "s3://project2processedbucket/processed/"
 
 # --- job init ---
 sc = SparkContext()
@@ -65,3 +65,4 @@ df.write.mode("overwrite").partitionBy("region").parquet(S3_OUTPUT_PATH)
 
 print("ETL job complete.")
 job.commit()
+
