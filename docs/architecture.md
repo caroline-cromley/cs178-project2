@@ -1,7 +1,6 @@
 cs178-project2/
 ├── README.md
 ├── .gitignore
-├── requirements.txt
 │
 ├── data/
 │   ├── generate_data.py       # synthetic CSV generator
@@ -17,6 +16,5 @@ cs178-project2/
 │   └── queries.sql            # example SELECT queries on processed output
 │
 └── docs/
-    ├── essay.md               # written reflection
     ├── architecture.png       # pipeline diagram screenshot
-    └── screenshots/           # AWS console screenshots for video walkthrough
+    └── screenshots/photos.md  # AWS console screenshots for video walkthrough

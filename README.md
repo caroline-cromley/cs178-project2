@@ -14,14 +14,14 @@ This project builds a fully automated, event-driven ETL pipeline on AWS. When a 
 You do not need to run anything locally. All AWS infrastructure was deployed and tested in my personal AWS account. To evaluate the project, please refer to:
 
 1. **The code** in this repository (data generator, Glue ETL script, Lambda handler, Athena queries)
-2. **The screenshots** in `docs/screenshots/` showing each stage of the pipeline running successfully
-3. **The essay** in `docs/essay.md` for written reflection
-4. **The video** linked below for a live walkthrough demo
+2. **The screenshots** in `docs/screenshots/photos.md` showing each stage of the pipeline running successfully
+3. **The essay** in Blackboard submission
+4. **The video** in Blackboard submission
 
 ---
 
 ## Video Walkthrough
-Located in docs/screenshots.
+Located in Blackboard submission.
 
 The video demonstrates:
 - Uploading a CSV to the raw S3 bucket

@@ -1,6 +1,6 @@
 import boto3
 
-GLUE_JOB_NAME = "your-glue-job-name"  # update this before deploying
+GLUE_JOB_NAME = "Project2ETLJob"  
 
 glue = boto3.client("glue")
 
